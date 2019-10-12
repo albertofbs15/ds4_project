@@ -1,2466 +1,309 @@
-,the_geom,name,description,No.,CODIGO,LATITUD,LONGITUD,ICONO
-0,POINT (-74.8346608 11.0175066),CALLE 106 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 5<br>
-<b>CODIGO:</b> 10653<br>
-<b>LOCALIZACION:</b> CALLE 106 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0175066<br>
-<b>LONGITUD:</b> -74.8346608<br>
-<b>ICONO:</b> small_green
-</div>",5,10653,11.017506599999999,-74.8346608,small_green
-1,POINT (-74.7739496 10.9539613),CALLE 17 CON CARRERA 15 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 7<br>
-<b>CODIGO:</b> 508<br>
-<b>LOCALIZACION:</b> CALLE 17 CON CARRERA 15 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9539613<br>
-<b>LONGITUD:</b> -74.7739496<br>
-<b>ICONO:</b> small_green
-</div>",7,508,10.953961300000001,-74.7739496,small_green
-2,POINT (-74.7748803 10.9674284),CALLE 17 CON CARRERA 30 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 8<br>
-<b>CODIGO:</b> 500<br>
-<b>LOCALIZACION:</b> CALLE 17 CON CARRERA 30 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9674284<br>
-<b>LONGITUD:</b> -74.7748803<br>
-<b>ICONO:</b> small_green
-</div>",8,500,10.9674284,-74.77488029999999,small_green
-3,POINT (-74.7753842 10.9754118),CALLE 17 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 9<br>
-<b>CODIGO:</b> 1124<br>
-<b>LOCALIZACION:</b> CALLE 17 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9754118<br>
-<b>LONGITUD:</b> -74.7753842<br>
-<b>ICONO:</b> small_green
-</div>",9,1124,10.9754118,-74.7753842,small_green
-4,POINT (-74.780262 10.936612),CALLE 19 CON CARRERA 1E BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 10<br>
-<b>CODIGO:</b> 1901<br>
-<b>LOCALIZACION:</b> CALLE 19 CON CARRERA 1E BARRANQUILLA<br>
-<b>LATITUD:</b> 10.936612<br>
-<b>LONGITUD:</b> -74.780262<br>
-<b>ICONO:</b> small_green
-</div>",10,1901,10.936612,-74.780262,small_green
-5,POINT (-74.7768943 10.9437723),CALLE 19 CON CARRERA 5B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 11<br>
-<b>CODIGO:</b> 1905<br>
-<b>LOCALIZACION:</b> CALLE 19 CON CARRERA 5B BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9437723<br>
-<b>LONGITUD:</b> -74.7768943<br>
-<b>ICONO:</b> small_green
-</div>",11,1905,10.943772300000001,-74.7768943,small_green
-6,POINT (-74.7759048 10.94681),CALLE 19 CON CARRERA 7 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 12<br>
-<b>CODIGO:</b> 1907<br>
-<b>LOCALIZACION:</b> CALLE 19 CON CARRERA 7 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.94681<br>
-<b>LONGITUD:</b> -74.7759048<br>
-<b>ICONO:</b> small_green
-</div>",12,1907,10.946810000000001,-74.77590479999999,small_green
-7,POINT (-74.7802189 10.9526771),CALLE 26 CON CARRERA 15 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 13<br>
-<b>CODIGO:</b> 2515<br>
-<b>LOCALIZACION:</b> CALLE 26 CON CARRERA 15 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9526771<br>
-<b>LONGITUD:</b> -74.7802189<br>
-<b>ICONO:</b> small_green
-</div>",13,2515,10.952677099999999,-74.78021890000001,small_green
-8,POINT (-74.7863451 10.9524282),CALLE 30 CON CARRERA 14 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 14<br>
-<b>CODIGO:</b> 2506<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 14 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9524282<br>
-<b>LONGITUD:</b> -74.7863451<br>
-<b>ICONO:</b> small_green
-</div>",14,2506,10.9524282,-74.78634509999999,small_green
-9,POINT (-74.7860889 10.9515936),CALLE 30 CON CARRERA 15 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 15<br>
-<b>CODIGO:</b> 2506<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 15 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9515936<br>
-<b>LONGITUD:</b> -74.7860889<br>
-<b>ICONO:</b> small_green
-</div>",15,2506,10.9515936,-74.78608890000001,small_green
-10,POINT (-74.786032 10.9567872),CALLE 30 CON CARRERA 20 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 16<br>
-<b>CODIGO:</b> 2508<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 20 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9567872<br>
-<b>LONGITUD:</b> -74.786032<br>
-<b>ICONO:</b> small_green
-</div>",16,2508,10.956787199999999,-74.78603199999999,small_green
-11,POINT (-74.7851271 10.9592699),CALLE 30 CON CARRERA 21 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 17<br>
-<b>CODIGO:</b> 1509<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 21 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9592699<br>
-<b>LONGITUD:</b> -74.7851271<br>
-<b>ICONO:</b> small_green
-</div>",17,1509,10.9592699,-74.7851271,small_green
-12,POINT (-74.7843952 10.9609495),CALLE 30 CON CARRERA 21B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 18<br>
-<b>CODIGO:</b> 1509<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 21B BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9609495<br>
-<b>LONGITUD:</b> -74.7843952<br>
-<b>ICONO:</b> small_green
-</div>",18,1509,10.9609495,-74.7843952,small_green
-13,POINT (-74.7839898 10.9622783),CALLE 30 CON CARRERA 23 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 19<br>
-<b>CODIGO:</b> 2511<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 23 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9622783<br>
-<b>LONGITUD:</b> -74.7839898<br>
-<b>ICONO:</b> small_green
-</div>",19,2511,10.962278300000001,-74.78398979999999,small_green
-14,POINT (-74.783424 10.963379),CALLE 30 CON CARRERA 24 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 20<br>
-<b>CODIGO:</b> 1510<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 24 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.963379<br>
-<b>LONGITUD:</b> -74.783424<br>
-<b>ICONO:</b> small_green
-</div>",20,1510,10.963379,-74.783424,small_green
-15,POINT (-74.7831608 10.9643142),CALLE 30 CON CARRERA 25 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 21<br>
-<b>CODIGO:</b> 1510<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 25 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9643142<br>
-<b>LONGITUD:</b> -74.7831608<br>
-<b>ICONO:</b> small_green
-</div>",21,1510,10.964314199999999,-74.7831608,small_green
-16,POINT (-74.7821481 10.9666814),CALLE 30 CON CARRERA 28 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 22<br>
-<b>CODIGO:</b> 2512<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 28 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9666814<br>
-<b>LONGITUD:</b> -74.7821481<br>
-<b>ICONO:</b> small_green
-</div>",22,2512,10.9666814,-74.78214809999999,small_green
-17,POINT (-74.7808624 10.9691942),CALLE 30 CON CARRERA 30 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 23<br>
-<b>CODIGO:</b> 1514<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 30 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9691942<br>
-<b>LONGITUD:</b> -74.7808624<br>
-<b>ICONO:</b> small_green
-</div>",23,1514,10.969194199999999,-74.7808624,small_green
-18,POINT (-74.7773309 10.9762252),CALLE 30 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 24<br>
-<b>CODIGO:</b> 1126<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9762252<br>
-<b>LONGITUD:</b> -74.7773309<br>
-<b>ICONO:</b> small_green
-</div>",24,1126,10.9762252,-74.7773309,small_green
-19,POINT (-74.7826357 10.9397426),CALLE 30 CON CARRERA 4 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 25<br>
-<b>CODIGO:</b> 2503<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 4 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9397426<br>
-<b>LONGITUD:</b> -74.7826357<br>
-<b>ICONO:</b> small_green
-</div>",25,2503,10.939742599999999,-74.78263570000001,small_green
-20,POINT (-74.776502 10.9776657),CALLE 30 CON CARRERA 40 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 26<br>
-<b>CODIGO:</b> 1126<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 40 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9776657<br>
-<b>LONGITUD:</b> -74.776502<br>
-<b>ICONO:</b> small_green
-</div>",26,1126,10.9776657,-74.77650200000001,small_green
-21,POINT (-74.7753824 10.9811718),CALLE 30 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 27<br>
-<b>CODIGO:</b> 2104<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9811718<br>
-<b>LONGITUD:</b> -74.7753824<br>
-<b>ICONO:</b> small_green
-</div>",27,2104,10.9811718,-74.7753824,small_green
-22,POINT (-74.77556 10.9825115),CALLE 30 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 28<br>
-<b>CODIGO:</b> 2105<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9825115<br>
-<b>LONGITUD:</b> -74.77556<br>
-<b>ICONO:</b> small_green
-</div>",28,2105,10.982511500000001,-74.77556,small_green
-23,POINT (-74.7769683 10.9857315),CALLE 30 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 29<br>
-<b>CODIGO:</b> 3046<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9857315<br>
-<b>LONGITUD:</b> -74.7769683<br>
-<b>ICONO:</b> small_green
-</div>",29,3046,10.9857315,-74.7769683,small_green
-24,POINT (-74.7847508 10.9469744),CALLE 30 CON CARRERA 8 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 30<br>
-<b>CODIGO:</b> 1504<br>
-<b>LOCALIZACION:</b> CALLE 30 CON CARRERA 8 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9469744<br>
-<b>LONGITUD:</b> -74.7847508<br>
-<b>ICONO:</b> small_green
-</div>",30,1504,10.9469744,-74.7847508,small_green
-25,POINT (-74.781744 10.93674),CALLE 30 ENTRE CARRERAS 1 Y 2 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 31<br>
-<b>CODIGO:</b> 3001<br>
-<b>LOCALIZACION:</b> CALLE 30 ENTRE CARRERAS 1 Y 2 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.936740<br>
-<b>LONGITUD:</b> -74.781744<br>
-<b>ICONO:</b> small_green
-</div>",31,3001,10.936739999999999,-74.78174399999999,small_green
-26,POINT (-74.7794114 10.9771),CALLE 34 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 32<br>
-<b>CODIGO:</b> 2129<br>
-<b>LOCALIZACION:</b> CALLE 34 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9771<br>
-<b>LONGITUD:</b> -74.7794114<br>
-<b>ICONO:</b> small_green
-</div>",32,2129,10.9771,-74.7794114,small_green
-27,POINT (-74.7787315 10.9790133),CALLE 34 CON CARRERA 40 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 33<br>
-<b>CODIGO:</b> 2132<br>
-<b>LOCALIZACION:</b> CALLE 34 CON CARRERA 40 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9790133<br>
-<b>LONGITUD:</b> -74.7787315<br>
-<b>ICONO:</b> small_green
-</div>",33,2132,10.9790133,-74.77873149999999,small_green
-28,POINT (-74.7784432 10.9800066),CALLE 34 CON CARRERA 41 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 34<br>
-<b>CODIGO:</b> 2132<br>
-<b>LOCALIZACION:</b> CALLE 34 CON CARRERA 41 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9800066<br>
-<b>LONGITUD:</b> -74.7784432<br>
-<b>ICONO:</b> small_green
-</div>",34,2132,10.9800066,-74.7784432,small_green
-29,POINT (-74.7782254 10.9812295),CALLE 34 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 35<br>
-<b>CODIGO:</b> 2133<br>
-<b>LOCALIZACION:</b> CALLE 34 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9812295<br>
-<b>LONGITUD:</b> -74.7782254<br>
-<b>ICONO:</b> small_green
-</div>",35,2133,10.9812295,-74.77822540000001,small_green
-30,POINT (-74.7778786 10.9828928),CALLE 34 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 36<br>
-<b>CODIGO:</b> 2134<br>
-<b>LOCALIZACION:</b> CALLE 34 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9828928<br>
-<b>LONGITUD:</b> -74.7778786<br>
-<b>ICONO:</b> small_green
-</div>",36,2134,10.982892800000002,-74.7778786,small_green
-31,POINT (-74.777582 10.9838136),CALLE 34 CON CARRERA 45 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 37<br>
-<b>CODIGO:</b> 2134<br>
-<b>LOCALIZACION:</b> CALLE 34 CON CARRERA 45 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9838136<br>
-<b>LONGITUD:</b> -74.777582<br>
-<b>ICONO:</b> small_green
-</div>",37,2134,10.9838136,-74.777582,small_green
-32,POINT (-74.776969 10.985733),CALLE 34 CON CARRERA 46 BARRANQUILLA *norte,"<div class=""googft-info-window"">
-<b>No.:</b> 38<br>
-<b>CODIGO:</b> 3046<br>
-<b>LOCALIZACION:</b> CALLE 34 CON CARRERA 46 BARRANQUILLA *norte<br>
-<b>LATITUD:</b> 10.985733<br>
-<b>LONGITUD:</b> -74.776969<br>
-<b>ICONO:</b> small_green
-</div>",38,3046,10.985733,-74.776969,small_green
-33,POINT (-74.776957 10.985721),CALLE 34 CON CARRERA 46 BARRANQUILLA *sur,"<div class=""googft-info-window"">
-<b>No.:</b> 39<br>
-<b>CODIGO:</b> 3046<br>
-<b>LOCALIZACION:</b> CALLE 34 CON CARRERA 46 BARRANQUILLA *sur<br>
-<b>LATITUD:</b> 10.985721<br>
-<b>LONGITUD:</b> -74.776957<br>
-<b>ICONO:</b> small_green
-</div>",39,3046,10.985721,-74.776957,small_green
-34,POINT (-74.7921527 10.946079),CALLE 36B CON CARRERA 8 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 41<br>
-<b>CODIGO:</b> 3608<br>
-<b>LOCALIZACION:</b> CALLE 36B CON CARRERA 8 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.946079<br>
-<b>LONGITUD:</b> -74.7921527<br>
-<b>ICONO:</b> small_green
-</div>",41,3608,10.946079,-74.7921527,small_green
-35,POINT (-74.7799369 10.9833457),CALLE 37 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 42<br>
-<b>CODIGO:</b> 2120<br>
-<b>LOCALIZACION:</b> CALLE 37 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9833457<br>
-<b>LONGITUD:</b> -74.7799369<br>
-<b>ICONO:</b> small_green
-</div>",42,2120,10.9833457,-74.77993690000001,small_green
-36,POINT (-74.7793988 10.9860925),CALLE 37 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 43<br>
-<b>CODIGO:</b> 3746<br>
-<b>LOCALIZACION:</b> CALLE 37 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9860925<br>
-<b>LONGITUD:</b> -74.7793988<br>
-<b>ICONO:</b> small_green
-</div>",43,3746,10.9860925,-74.7793988,small_green
-37,POINT (-74.7844122 10.9703976),CALLE 38 CON CARRERA 30 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 44<br>
-<b>CODIGO:</b> 3830<br>
-<b>LOCALIZACION:</b> CALLE 38 CON CARRERA 30 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9703976<br>
-<b>LONGITUD:</b> -74.7844122<br>
-<b>ICONO:</b> small_green
-</div>",44,3830,10.9703976,-74.78441219999999,small_green
-38,POINT (-74.7833655 10.973159),CALLE 38 CON CARRERA 33 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 45<br>
-<b>CODIGO:</b> 2601<br>
-<b>LOCALIZACION:</b> CALLE 38 CON CARRERA 33 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.973159<br>
-<b>LONGITUD:</b> -74.7833655<br>
-<b>ICONO:</b> small_green
-</div>",45,2601,10.973158999999999,-74.7833655,small_green
-39,POINT (-74.781797 10.9780656),CALLE 38 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 46<br>
-<b>CODIGO:</b> 1130<br>
-<b>LOCALIZACION:</b> CALLE 38 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9780656<br>
-<b>LONGITUD:</b> -74.781797<br>
-<b>ICONO:</b> small_green
-</div>",46,1130,10.9780656,-74.781797,small_green
-40,POINT (-74.7812785 10.9799677),CALLE 38 CON CARRERA 40 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 47<br>
-<b>CODIGO:</b> 1131<br>
-<b>LOCALIZACION:</b> CALLE 38 CON CARRERA 40 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9799677<br>
-<b>LONGITUD:</b> -74.7812785<br>
-<b>ICONO:</b> small_green
-</div>",47,1131,10.9799677,-74.7812785,small_green
-41,POINT (-74.780499 10.9834463),CALLE 38 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 48<br>
-<b>CODIGO:</b> 2120<br>
-<b>LOCALIZACION:</b> CALLE 38 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9834463<br>
-<b>LONGITUD:</b> -74.780499<br>
-<b>ICONO:</b> small_green
-</div>",48,2120,10.9834463,-74.780499,small_green
-42,POINT (-74.7801725 10.9848984),CALLE 38 CON CARRERA 45 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 49<br>
-<b>CODIGO:</b> 1114<br>
-<b>LOCALIZACION:</b> CALLE 38 CON CARRERA 45 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9848984<br>
-<b>LONGITUD:</b> -74.7801725<br>
-<b>ICONO:</b> small_green
-</div>",49,1114,10.9848984,-74.78017249999999,small_green
-43,POINT (-74.7808262 10.9817507),CALLE 38 CON CARRERA43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 50<br>
-<b>CODIGO:</b> 3843<br>
-<b>LOCALIZACION:</b> CALLE 38 CON CARRERA43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9817507<br>
-<b>LONGITUD:</b> -74.7808262<br>
-<b>ICONO:</b> small_green
-</div>",50,3843,10.9817507,-74.78082619999999,small_green
-44,POINT (-74.7850403 10.9703325),CALLE 39 CON CARRERA 30 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 51<br>
-<b>CODIGO:</b> 3830<br>
-<b>LOCALIZACION:</b> CALLE 39 CON CARRERA 30 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9703325<br>
-<b>LONGITUD:</b> -74.7850403<br>
-<b>ICONO:</b> small_green
-</div>",51,3830,10.9703325,-74.78504029999999,small_green
-45,POINT (-74.7810334 10.9863515),CALLE 40 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 52<br>
-<b>CODIGO:</b> 4046<br>
-<b>LOCALIZACION:</b> CALLE 40 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9863515<br>
-<b>LONGITUD:</b> -74.7810334<br>
-<b>ICONO:</b> small_green
-</div>",52,4046,10.9863515,-74.7810334,small_green
-46,POINT (-74.7828894 10.9784831),CALLE 40 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 53<br>
-<b>CODIGO:</b> 1130<br>
-<b>LOCALIZACION:</b> CALLE 40 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9784831<br>
-<b>LONGITUD:</b> -74.7828894<br>
-<b>ICONO:</b> small_green
-</div>",53,1130,10.978483099999998,-74.7828894,small_green
-47,POINT (-74.7823961 10.9802963),CALLE 40 CON CARRERA 40 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 54<br>
-<b>CODIGO:</b> 1131<br>
-<b>LOCALIZACION:</b> CALLE 40 CON CARRERA 40 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9802963<br>
-<b>LONGITUD:</b> -74.7823961<br>
-<b>ICONO:</b> small_green
-</div>",54,1131,10.980296300000001,-74.78239609999999,small_green
-48,POINT (-74.7815697 10.9837043),CALLE 40 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 55<br>
-<b>CODIGO:</b> 4044<br>
-<b>LOCALIZACION:</b> CALLE 40 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9837043<br>
-<b>LONGITUD:</b> -74.7815697<br>
-<b>ICONO:</b> small_green
-</div>",55,4044,10.983704300000001,-74.7815697,small_green
-49,POINT (-74.7805062 10.9887281),CALLE 40 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 56<br>
-<b>CODIGO:</b> 4050<br>
-<b>LOCALIZACION:</b> CALLE 40 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9887281<br>
-<b>LONGITUD:</b> -74.7805062<br>
-<b>ICONO:</b> small_green
-</div>",56,4050,10.9887281,-74.7805062,small_green
-50,POINT (-74.7898688 10.9659884),CALLE 42 CON CARRERA 24 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 57<br>
-<b>CODIGO:</b> 1423<br>
-<b>LOCALIZACION:</b> CALLE 42 CON CARRERA 24 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9659884<br>
-<b>LONGITUD:</b> -74.7898688<br>
-<b>ICONO:</b> small_green
-</div>",57,1423,10.9659884,-74.7898688,small_green
-51,POINT (-74.7890203 10.9667616),CALLE 42 CON CARRERA 25 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 58<br>
-<b>CODIGO:</b> 1423<br>
-<b>LOCALIZACION:</b> CALLE 42 CON CARRERA 25 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9667616<br>
-<b>LONGITUD:</b> -74.7890203<br>
-<b>ICONO:</b> small_green
-</div>",58,1423,10.9667616,-74.7890203,small_green
-52,POINT (-74.7824798 10.986711),CALLE 42 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 59<br>
-<b>CODIGO:</b> 4246<br>
-<b>LOCALIZACION:</b> CALLE 42 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.986711<br>
-<b>LONGITUD:</b> -74.7824798<br>
-<b>ICONO:</b> small_green
-</div>",59,4246,10.986711,-74.78247979999999,small_green
-53,POINT (-74.7820207 10.9891238),CALLE 42 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 60<br>
-<b>CODIGO:</b> 4250<br>
-<b>LOCALIZACION:</b> CALLE 42 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9891238<br>
-<b>LONGITUD:</b> -74.7820207<br>
-<b>ICONO:</b> small_green
-</div>",60,4250,10.989123800000002,-74.7820207,small_green
-54,POINT (-74.7831735 10.9868798),CALLE 43 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 61<br>
-<b>CODIGO:</b> 4246<br>
-<b>LOCALIZACION:</b> CALLE 43 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9868798<br>
-<b>LONGITUD:</b> -74.7831735<br>
-<b>ICONO:</b> small_green
-</div>",61,4246,10.9868798,-74.7831735,small_green
-55,POINT (-74.786133 10.9795369),CALLE 44 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 62<br>
-<b>CODIGO:</b> 2440<br>
-<b>LOCALIZACION:</b> CALLE 44 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9795369<br>
-<b>LONGITUD:</b> -74.786133<br>
-<b>ICONO:</b> small_green
-</div>",62,2440,10.979536900000001,-74.78613299999999,small_green
-56,POINT (-74.7825027 10.9961074),CALLE 45 CON AV VÍA 40 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 63<br>
-<b>CODIGO:</b> 2146<br>
-<b>LOCALIZACION:</b> CALLE 45 CON AV VÍA 40 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9961074<br>
-<b>LONGITUD:</b> -74.7825027<br>
-<b>ICONO:</b> small_green
-</div>",63,2146,10.996107400000001,-74.7825027,small_green
-57,POINT (-74.7991201 10.930138),CALLE 45 CON CARRERA 1 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 64<br>
-<b>CODIGO:</b> 2401<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 1 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.930138<br>
-<b>LONGITUD:</b> -74.7991201<br>
-<b>ICONO:</b> small_green
-</div>",64,2401,10.930138000000001,-74.79912009999998,small_green
-58,POINT (-74.7961987 10.9556793),CALLE 45 CON CARRERA 17 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 66<br>
-<b>CODIGO:</b> 4517<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 17 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9556793<br>
-<b>LONGITUD:</b> -74.7961987<br>
-<b>ICONO:</b> small_green
-</div>",66,4517,10.9556793,-74.7961987,small_green
-59,POINT (-74.7948608 10.9584588),CALLE 45 CON CARRERA 19 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 67<br>
-<b>CODIGO:</b> 2410<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 19 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9584588<br>
-<b>LONGITUD:</b> -74.7948608<br>
-<b>ICONO:</b> small_green
-</div>",67,2410,10.9584588,-74.7948608,small_green
-60,POINT (-74.7941408 10.9599332),CALLE 45 CON CARRERA 20B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 68<br>
-<b>CODIGO:</b> 4520<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 20B BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9599332<br>
-<b>LONGITUD:</b> -74.7941408<br>
-<b>ICONO:</b> small_green
-</div>",68,4520,10.9599332,-74.7941408,small_green
-61,POINT (-74.7932791 10.9618252),CALLE 45 CON CARRERA 21 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 69<br>
-<b>CODIGO:</b> 4521<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 21 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9618252<br>
-<b>LONGITUD:</b> -74.7932791<br>
-<b>ICONO:</b> small_green
-</div>",69,4521,10.9618252,-74.79327909999999,small_green
-62,POINT (-74.7911115 10.9665101),CALLE 45 CON CARRERA 24 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 70<br>
-<b>CODIGO:</b> 2424<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 24 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9665101<br>
-<b>LONGITUD:</b> -74.7911115<br>
-<b>ICONO:</b> small_green
-</div>",70,2424,10.966510099999999,-74.7911115,small_green
-63,POINT (-74.7906379 10.9680692),CALLE 45 CON CARRERA 26 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 71<br>
-<b>CODIGO:</b> 4526<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 26 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9680692<br>
-<b>LONGITUD:</b> -74.7906379<br>
-<b>ICONO:</b> small_green
-</div>",71,4526,10.9680692,-74.79063790000001,small_green
-64,POINT (-74.7901346 10.9696249),CALLE 45 CON CARRERA 27 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 72<br>
-<b>CODIGO:</b> 4526<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 27 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9696249<br>
-<b>LONGITUD:</b> -74.7901346<br>
-<b>ICONO:</b> small_green
-</div>",72,4526,10.969624900000001,-74.79013459999999,small_green
-65,POINT (-74.7993457 10.9337912),CALLE 45 CON CARRERA 2A BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 73<br>
-<b>CODIGO:</b> 4501<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 2A BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9337912<br>
-<b>LONGITUD:</b> -74.7993457<br>
-<b>ICONO:</b> small_green
-</div>",73,4501,10.9337912,-74.7993457,small_green
-66,POINT (-74.7894355 10.9720192),CALLE 45 CON CARRERA 30 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 74<br>
-<b>CODIGO:</b> 2430<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 30 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9720192<br>
-<b>LONGITUD:</b> -74.7894355<br>
-<b>ICONO:</b> small_green
-</div>",74,2430,10.9720192,-74.7894355,small_green
-67,POINT (-74.7884841 10.9751144),CALLE 45 CON CARRERA 33 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 75<br>
-<b>CODIGO:</b> 2438<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 33 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9751144<br>
-<b>LONGITUD:</b> -74.7884841<br>
-<b>ICONO:</b> small_green
-</div>",75,2438,10.9751144,-74.78848409999999,small_green
-68,POINT (-74.777582 10.9838136),CALLE 45 CON CARRERA 34 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 76<br>
-<b>CODIGO:</b> 4534<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 34 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9838136<br>
-<b>LONGITUD:</b> -74.777582<br>
-<b>ICONO:</b> small_green
-</div>",76,4534,10.9838136,-74.777582,small_green
-69,POINT (-74.7874841 10.978146),CALLE 45 CON CARRERA 36 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 77<br>
-<b>CODIGO:</b> 4534<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 36 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.978146<br>
-<b>LONGITUD:</b> -74.7874841<br>
-<b>ICONO:</b> small_green
-</div>",77,4534,10.978146,-74.78748409999999,small_green
-70,POINT (-74.7871283 10.9798372),CALLE 45 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 78<br>
-<b>CODIGO:</b> 2440<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9798372<br>
-<b>LONGITUD:</b> -74.7871283<br>
-<b>ICONO:</b> small_green
-</div>",78,2440,10.979837199999999,-74.78712829999999,small_green
-71,POINT (-74.7993309 10.9383337),CALLE 45 CON CARRERA 4 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 79<br>
-<b>CODIGO:</b> 2402<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 4 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9383337<br>
-<b>LONGITUD:</b> -74.7993309<br>
-<b>ICONO:</b> small_green
-</div>",79,2402,10.9383337,-74.7993309,small_green
-72,POINT (-74.7867596 10.981457),CALLE 45 CON CARRERA 41 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 80<br>
-<b>CODIGO:</b> 4541<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 41 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.981457<br>
-<b>LONGITUD:</b> -74.7867596<br>
-<b>ICONO:</b> small_green
-</div>",80,4541,10.981457,-74.7867596,small_green
-73,POINT (-74.7863391 10.9830068),CALLE 45 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 81<br>
-<b>CODIGO:</b> 2136<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9830068<br>
-<b>LONGITUD:</b> -74.7863391<br>
-<b>ICONO:</b> small_green
-</div>",81,2136,10.983006800000002,-74.78633909999999,small_green
-74,POINT (-74.7857557 10.9845719),CALLE 45 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 82<br>
-<b>CODIGO:</b> 2144<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9845719<br>
-<b>LONGITUD:</b> -74.7857557<br>
-<b>ICONO:</b> small_green
-</div>",82,2144,10.9845719,-74.78575570000001,small_green
-75,POINT (-74.7852241 10.9864681),CALLE 45 CON CARRERA 45 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 83<br>
-<b>CODIGO:</b> 2135<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 45 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9864681<br>
-<b>LONGITUD:</b> -74.7852241<br>
-<b>ICONO:</b> small_green
-</div>",83,2135,10.9864681,-74.7852241,small_green
-76,POINT (-74.7849389 10.9873617),CALLE 45 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 84<br>
-<b>CODIGO:</b> 4546<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9873617<br>
-<b>LONGITUD:</b> -74.7849389<br>
-<b>ICONO:</b> small_green
-</div>",84,4546,10.9873617,-74.78493890000001,small_green
-77,POINT (-74.7840489 10.9896613),CALLE 45 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 85<br>
-<b>CODIGO:</b> 4550<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9896613<br>
-<b>LONGITUD:</b> -74.7840489<br>
-<b>ICONO:</b> small_green
-</div>",85,4550,10.989661300000002,-74.7840489,small_green
-78,POINT (-74.7993874 10.9413601),CALLE 45 CON CARRERA 7 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 86<br>
-<b>CODIGO:</b> 2403<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 7 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9413601<br>
-<b>LONGITUD:</b> -74.7993874<br>
-<b>ICONO:</b> small_green
-</div>",86,2403,10.941360099999999,-74.7993874,small_green
-79,POINT (-74.7994937 10.9428048),CALLE 45 CON CARRERA 7C BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 87<br>
-<b>CODIGO:</b> 2403<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 7C BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9428048<br>
-<b>LONGITUD:</b> -74.7994937<br>
-<b>ICONO:</b> small_green
-</div>",87,2403,10.942804800000001,-74.7994937,small_green
-80,POINT (-74.7996238 10.9461818),CALLE 45 CON CARRERA 8 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 88<br>
-<b>CODIGO:</b> 4508<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 8 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9461818<br>
-<b>LONGITUD:</b> -74.7996238<br>
-<b>ICONO:</b> small_green
-</div>",88,4508,10.946181800000002,-74.7996238,small_green
-81,POINT (-74.7996782 10.9478098),CALLE 45 CON CARRERA 8C BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 89<br>
-<b>CODIGO:</b> 4508<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERA 8C BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9478098<br>
-<b>LONGITUD:</b> -74.7996782<br>
-<b>ICONO:</b> small_green
-</div>",89,4508,10.947809800000002,-74.7996782,small_green
-82,POINT (-74.7968304 10.9543704),CALLE 45 CON CARRERAS 14 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 91<br>
-<b>CODIGO:</b> 4517<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERAS 14 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9543704<br>
-<b>LONGITUD:</b> -74.7968304<br>
-<b>ICONO:</b> small_green
-</div>",91,4517,10.9543704,-74.7968304,small_green
-83,POINT (-74.7993202 10.9317964),CALLE 45 CON CARRERAS 1E BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 92<br>
-<b>CODIGO:</b> 4501<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERAS 1E BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9317964<br>
-<b>LONGITUD:</b> -74.7993202<br>
-<b>ICONO:</b> small_green
-</div>",92,4501,10.931796400000001,-74.79932020000001,small_green
-84,POINT (-74.7941408 10.9599332),CALLE 45 CON CARRERAS 20 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 93<br>
-<b>CODIGO:</b> 4520<br>
-<b>LOCALIZACION:</b> CALLE 45 CON CARRERAS 20 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9599332<br>
-<b>LONGITUD:</b> -74.7941408<br>
-<b>ICONO:</b> small_green
-</div>",93,4520,10.9599332,-74.7941408,small_green
-85,POINT (-74.8032998 10.9587401),CALLE 47 CON CARRERA 14 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 95<br>
-<b>CODIGO:</b> 1412<br>
-<b>LOCALIZACION:</b> CALLE 47 CON CARRERA 14 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9587401<br>
-<b>LONGITUD:</b> -74.8032998<br>
-<b>ICONO:</b> small_green
-</div>",95,1412,10.9587401,-74.8032998,small_green
-86,POINT (-74.8016144 10.9598037),CALLE 47 CON CARRERA 16 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 96<br>
-<b>CODIGO:</b> 1414<br>
-<b>LOCALIZACION:</b> CALLE 47 CON CARRERA 16 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9598037<br>
-<b>LONGITUD:</b> -74.8016144<br>
-<b>ICONO:</b> small_green
-</div>",96,1414,10.9598037,-74.8016144,small_green
-87,POINT (-74.7997901 10.9607035),CALLE 47 CON CARRERA 18 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 97<br>
-<b>CODIGO:</b> 1415<br>
-<b>LOCALIZACION:</b> CALLE 47 CON CARRERA 18 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9607035<br>
-<b>LONGITUD:</b> -74.7997901<br>
-<b>ICONO:</b> small_green
-</div>",97,1415,10.960703500000001,-74.7997901,small_green
-88,POINT (-74.7950824 10.96297),CALLE 47 CON CARRERA 21 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 98<br>
-<b>CODIGO:</b> 1416<br>
-<b>LOCALIZACION:</b> CALLE 47 CON CARRERA 21 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.96297<br>
-<b>LONGITUD:</b> -74.7950824<br>
-<b>ICONO:</b> small_green
-</div>",98,1416,10.96297,-74.7950824,small_green
-89,POINT (-74.7881549 10.9802137),CALLE 47 CON CARRERA 22 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 99<br>
-<b>CODIGO:</b> 4722<br>
-<b>LOCALIZACION:</b> CALLE 47 CON CARRERA 22 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9802137<br>
-<b>LONGITUD:</b> -74.7881549<br>
-<b>ICONO:</b> small_green
-</div>",99,4722,10.980213699999998,-74.78815490000001,small_green
-90,POINT (-74.7894946 10.9754357),CALLE 47 CON CARRERA 33 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 100<br>
-<b>CODIGO:</b> 4733<br>
-<b>LOCALIZACION:</b> CALLE 47 CON CARRERA 33 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9754357<br>
-<b>LONGITUD:</b> -74.7894946<br>
-<b>ICONO:</b> small_green
-</div>",100,4733,10.975435699999998,-74.7894946,small_green
-91,POINT (-74.7952014 10.9684734),CALLE 50 CON CARRERA 24 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 101<br>
-<b>CODIGO:</b> 2318<br>
-<b>LOCALIZACION:</b> CALLE 50 CON CARRERA 24 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9684734<br>
-<b>LONGITUD:</b> -74.7952014<br>
-<b>ICONO:</b> small_green
-</div>",101,2318,10.968473399999999,-74.79520140000001,small_green
-92,POINT (-74.7939952 10.9712039),CALLE 50 CON CARRERA 27 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 102<br>
-<b>CODIGO:</b> 2317<br>
-<b>LOCALIZACION:</b> CALLE 50 CON CARRERA 27 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9712039<br>
-<b>LONGITUD:</b> -74.7939952<br>
-<b>ICONO:</b> small_green
-</div>",102,2317,10.9712039,-74.79399520000001,small_green
-93,POINT (-74.791678 10.976169),CALLE 50 CON CARRERA 33 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 103<br>
-<b>CODIGO:</b> 1436<br>
-<b>LOCALIZACION:</b> CALLE 50 CON CARRERA 33 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.976169<br>
-<b>LONGITUD:</b> -74.791678<br>
-<b>ICONO:</b> small_green
-</div>",103,1436,10.976169,-74.791678,small_green
-94,POINT (-74.7903074 10.98066),CALLE 50 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 104<br>
-<b>CODIGO:</b> 5138<br>
-<b>LOCALIZACION:</b> CALLE 50 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.98066<br>
-<b>LONGITUD:</b> -74.7903074<br>
-<b>ICONO:</b> small_green
-</div>",104,5138,10.98066,-74.7903074,small_green
-95,POINT (-74.7899097 10.9820734),CALLE 50 CON CARRERA 41 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 105<br>
-<b>CODIGO:</b> 5138<br>
-<b>LOCALIZACION:</b> CALLE 50 CON CARRERA 41 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9820734<br>
-<b>LONGITUD:</b> -74.7899097<br>
-<b>ICONO:</b> small_green
-</div>",105,5138,10.982073399999999,-74.78990970000001,small_green
-96,POINT (-74.7893841 10.983771),CALLE 50 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 106<br>
-<b>CODIGO:</b> 1139<br>
-<b>LOCALIZACION:</b> CALLE 50 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.983771<br>
-<b>LONGITUD:</b> -74.7893841<br>
-<b>ICONO:</b> small_green
-</div>",106,1139,10.983771,-74.78938409999999,small_green
-97,POINT (-74.7888018 10.985343),CALLE 50 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 107<br>
-<b>CODIGO:</b> 1139<br>
-<b>LOCALIZACION:</b> CALLE 50 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.985343<br>
-<b>LONGITUD:</b> -74.7888018<br>
-<b>ICONO:</b> small_green
-</div>",107,1139,10.985342999999999,-74.78880179999999,small_green
-98,POINT (-74.7882298 10.9873053),CALLE 50 CON CARRERA 45 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 108<br>
-<b>CODIGO:</b> 1139<br>
-<b>LOCALIZACION:</b> CALLE 50 CON CARRERA 45 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9873053<br>
-<b>LONGITUD:</b> -74.7882298<br>
-<b>ICONO:</b> small_green
-</div>",108,1139,10.987305300000001,-74.7882298,small_green
-99,POINT (-74.7879786 10.9881277),CALLE 50 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 109<br>
-<b>CODIGO:</b> 2156<br>
-<b>LOCALIZACION:</b> CALLE 50 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9881277<br>
-<b>LONGITUD:</b> -74.7879786<br>
-<b>ICONO:</b> small_green
-</div>",109,2156,10.988127699999998,-74.7879786,small_green
-100,POINT (-74.7912623 10.9808792),CALLE 51 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 110<br>
-<b>CODIGO:</b> 5138<br>
-<b>LOCALIZACION:</b> CALLE 51 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9808792<br>
-<b>LONGITUD:</b> -74.7912623<br>
-<b>ICONO:</b> small_green
-</div>",110,5138,10.980879199999999,-74.7912623,small_green
-101,POINT (-74.7897734 10.987717),CALLE 53 CON CARRERA 45 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 112<br>
-<b>CODIGO:</b> 2156<br>
-<b>LOCALIZACION:</b> CALLE 53 CON CARRERA 45 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.987717<br>
-<b>LONGITUD:</b> -74.7897734<br>
-<b>ICONO:</b> small_green
-</div>",112,2156,10.987717,-74.7897734,small_green
-102,POINT (-74.7895198 10.9885764),CALLE 53 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 113<br>
-<b>CODIGO:</b> 2156<br>
-<b>LOCALIZACION:</b> CALLE 53 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9885764<br>
-<b>LONGITUD:</b> -74.7895198<br>
-<b>ICONO:</b> small_green
-</div>",113,2156,10.988576400000001,-74.7895198,small_green
-103,POINT (-74.789138 10.9907409),CALLE 53 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 114<br>
-<b>CODIGO:</b> 1277<br>
-<b>LOCALIZACION:</b> CALLE 53 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9907409<br>
-<b>LONGITUD:</b> -74.789138<br>
-<b>ICONO:</b> small_green
-</div>",114,1277,10.9907409,-74.789138,small_green
-104,POINT (-74.7892454 10.9927375),CALLE 53 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 115<br>
-<b>CODIGO:</b> 5354<br>
-<b>LOCALIZACION:</b> CALLE 53 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9927375<br>
-<b>LONGITUD:</b> -74.7892454<br>
-<b>ICONO:</b> small_green
-</div>",115,5354,10.9927375,-74.7892454,small_green
-105,POINT (-74.8002887 10.9682144),CALLE 53D CON CARRERA 21B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 116<br>
-<b>CODIGO:</b> 2303<br>
-<b>LOCALIZACION:</b> CALLE 53D CON CARRERA 21B BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9682144<br>
-<b>LONGITUD:</b> -74.8002887<br>
-<b>ICONO:</b> small_green
-</div>",116,2303,10.9682144,-74.8002887,small_green
-106,POINT (-74.798462 10.970826),CALLE 53D CON CARRERA 24 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 117<br>
-<b>CODIGO:</b> 1307<br>
-<b>LOCALIZACION:</b> CALLE 53D CON CARRERA 24 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.970826<br>
-<b>LONGITUD:</b> -74.798462<br>
-<b>ICONO:</b> small_green
-</div>",117,1307,10.970825999999999,-74.798462,small_green
-107,POINT (-74.797588 10.972475),CALLE 53D CON CARRERA 25 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 118<br>
-<b>CODIGO:</b> 5325<br>
-<b>LOCALIZACION:</b> CALLE 53D CON CARRERA 25 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.972475<br>
-<b>LONGITUD:</b> -74.797588<br>
-<b>ICONO:</b> small_green
-</div>",118,5325,10.972475,-74.797588,small_green
-108,POINT (-74.7973705 10.97656),CALLE 53D CON CARRERA 31 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 119<br>
-<b>CODIGO:</b> 5331<br>
-<b>LOCALIZACION:</b> CALLE 53D CON CARRERA 31 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.97656<br>
-<b>LONGITUD:</b> -74.7973705<br>
-<b>ICONO:</b> small_green
-</div>",119,5331,10.976560000000001,-74.7973705,small_green
-109,POINT (-74.7967611 10.9781534),CALLE 54 CON CARRERA 33 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 120<br>
-<b>CODIGO:</b> 2434<br>
-<b>LOCALIZACION:</b> CALLE 54 CON CARRERA 33 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9781534<br>
-<b>LONGITUD:</b> -74.7967611<br>
-<b>ICONO:</b> small_green
-</div>",120,2434,10.9781534,-74.7967611,small_green
-110,POINT (-74.7944106 10.9816451),CALLE 54 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 121<br>
-<b>CODIGO:</b> 1158<br>
-<b>LOCALIZACION:</b> CALLE 54 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9816451<br>
-<b>LONGITUD:</b> -74.7944106<br>
-<b>ICONO:</b> small_green
-</div>",121,1158,10.9816451,-74.79441059999999,small_green
-111,POINT (-74.793685 10.9828188),CALLE 54 CON CARRERA 41 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 122<br>
-<b>CODIGO:</b> 1158<br>
-<b>LOCALIZACION:</b> CALLE 54 CON CARRERA 41 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9828188<br>
-<b>LONGITUD:</b> -74.793685<br>
-<b>ICONO:</b> small_green
-</div>",122,1158,10.9828188,-74.793685,small_green
-112,POINT (-74.7925588 10.9846061),CALLE 54 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 123<br>
-<b>CODIGO:</b> 1158<br>
-<b>LOCALIZACION:</b> CALLE 54 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9846061<br>
-<b>LONGITUD:</b> -74.7925588<br>
-<b>ICONO:</b> small_green
-</div>",123,1158,10.9846061,-74.7925588,small_green
-113,POINT (-74.7919628 10.9861841),CALLE 54 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 124<br>
-<b>CODIGO:</b> 1158<br>
-<b>LOCALIZACION:</b> CALLE 54 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9861841<br>
-<b>LONGITUD:</b> -74.7919628<br>
-<b>ICONO:</b> small_green
-</div>",124,1158,10.986184100000001,-74.79196280000001,small_green
-114,POINT (-74.7913516 10.9881505),CALLE 54 CON CARRERA 45 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 125<br>
-<b>CODIGO:</b> 2157<br>
-<b>LOCALIZACION:</b> CALLE 54 CON CARRERA 45 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9881505<br>
-<b>LONGITUD:</b> -74.7913516<br>
-<b>ICONO:</b> small_green
-</div>",125,2157,10.9881505,-74.7913516,small_green
-115,POINT (-74.7910884 10.9890391),CALLE 54 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 126<br>
-<b>CODIGO:</b> 2157<br>
-<b>LOCALIZACION:</b> CALLE 54 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9890391<br>
-<b>LONGITUD:</b> -74.7910884<br>
-<b>ICONO:</b> small_green
-</div>",126,2157,10.989039100000001,-74.7910884,small_green
-116,POINT (-74.790591 10.9907684),CALLE 54 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 127<br>
-<b>CODIGO:</b> 1277<br>
-<b>LOCALIZACION:</b> CALLE 54 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9907684<br>
-<b>LONGITUD:</b> -74.790591<br>
-<b>ICONO:</b> small_green
-</div>",127,1277,10.9907684,-74.790591,small_green
-117,POINT (-74.7903144 10.9917181),CALLE 54 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 128<br>
-<b>CODIGO:</b> 1277<br>
-<b>LOCALIZACION:</b> CALLE 54 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9917181<br>
-<b>LONGITUD:</b> -74.7903144<br>
-<b>ICONO:</b> small_green
-</div>",128,1277,10.9917181,-74.79031440000001,small_green
-118,POINT (-74.7917523 10.989339),CALLE 55 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 129<br>
-<b>CODIGO:</b> 5546<br>
-<b>LOCALIZACION:</b> CALLE 55 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.989339<br>
-<b>LONGITUD:</b> -74.7917523<br>
-<b>ICONO:</b> small_green
-</div>",129,5546,10.989339,-74.7917523,small_green
-119,POINT (-74.791388 10.990703),CALLE 55 CON CARRERA 47 y 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 130<br>
-<b>CODIGO:</b> 5550<br>
-<b>LOCALIZACION:</b> CALLE 55 CON CARRERA 47 y 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.990703<br>
-<b>LONGITUD:</b> -74.791388<br>
-<b>ICONO:</b> small_green
-</div>",130,5550,10.990703,-74.791388,small_green
-120,POINT (-74.7912042 10.9927706),CALLE 55 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 131<br>
-<b>CODIGO:</b> 5354<br>
-<b>LOCALIZACION:</b> CALLE 55 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9927706<br>
-<b>LONGITUD:</b> -74.7912042<br>
-<b>ICONO:</b> small_green
-</div>",131,5354,10.992770599999998,-74.7912042,small_green
-121,POINT (-74.8087009 10.9535889),CALLE 56 CON CARRERA 9D BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 133<br>
-<b>CODIGO:</b> 5609<br>
-<b>LOCALIZACION:</b> CALLE 56 CON CARRERA 9D BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9535889<br>
-<b>LONGITUD:</b> -74.8087009<br>
-<b>ICONO:</b> small_green
-</div>",133,5609,10.953588900000002,-74.8087009,small_green
-122,POINT (-74.8012771 10.9713274),CALLE 57 CON CARRERA 24 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 134<br>
-<b>CODIGO:</b> 1307<br>
-<b>LOCALIZACION:</b> CALLE 57 CON CARRERA 24 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9713274<br>
-<b>LONGITUD:</b> -74.8012771<br>
-<b>ICONO:</b> small_green
-</div>",134,1307,10.9713274,-74.8012771,small_green
-123,POINT (-74.7914763 10.9928996),CALLE 58 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 135<br>
-<b>CODIGO:</b> 5354<br>
-<b>LOCALIZACION:</b> CALLE 58 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9928996<br>
-<b>LONGITUD:</b> -74.7914763<br>
-<b>ICONO:</b> small_green
-</div>",135,5354,10.9928996,-74.79147629999999,small_green
-124,POINT (-74.79522 10.9892126),CALLE 59 CON CARRERA 45 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 136<br>
-<b>CODIGO:</b> 5945<br>
-<b>LOCALIZACION:</b> CALLE 59 CON CARRERA 45 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9892126<br>
-<b>LONGITUD:</b> -74.79522<br>
-<b>ICONO:</b> small_green
-</div>",136,5945,10.989212599999998,-74.79522,small_green
-125,POINT (-74.7949312 10.9902237),CALLE 59 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 137<br>
-<b>CODIGO:</b> 2280<br>
-<b>LOCALIZACION:</b> CALLE 59 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9902237<br>
-<b>LONGITUD:</b> -74.7949312<br>
-<b>ICONO:</b> small_green
-</div>",137,2280,10.9902237,-74.79493120000001,small_green
-126,POINT (-74.7940735 10.9919534),CALLE 59 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 139<br>
-<b>CODIGO:</b> 1279<br>
-<b>LOCALIZACION:</b> CALLE 59 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9919534<br>
-<b>LONGITUD:</b> -74.7940735<br>
-<b>ICONO:</b> small_green
-</div>",139,1279,10.9919534,-74.7940735,small_green
-127,POINT (-74.793324 10.9929475),CALLE 59 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 140<br>
-<b>CODIGO:</b> 1279<br>
-<b>LOCALIZACION:</b> CALLE 59 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9929475<br>
-<b>LONGITUD:</b> -74.793324<br>
-<b>ICONO:</b> small_green
-</div>",140,1279,10.992947500000001,-74.793324,small_green
-128,POINT (-74.7926627 10.9939843),CALLE 59 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 141<br>
-<b>CODIGO:</b> 1279<br>
-<b>LOCALIZACION:</b> CALLE 59 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9939843<br>
-<b>LONGITUD:</b> -74.7926627<br>
-<b>ICONO:</b> small_green
-</div>",141,1279,10.993984300000001,-74.7926627,small_green
-129,POINT (-74.7760198 10.9852619),CALLE 6 CON CARRERA 30 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 142<br>
-<b>CODIGO:</b> 630<br>
-<b>LOCALIZACION:</b> CALLE 6 CON CARRERA 30 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9852619<br>
-<b>LONGITUD:</b> -74.7760198<br>
-<b>ICONO:</b> small_green
-</div>",142,630,10.985261900000001,-74.7760198,small_green
-130,POINT (-74.8067513 10.9603468),CALLE 60 CON CARRERA 14 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 143<br>
-<b>CODIGO:</b> 6014<br>
-<b>LOCALIZACION:</b> CALLE 60 CON CARRERA 14 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9603468<br>
-<b>LONGITUD:</b> -74.8067513<br>
-<b>ICONO:</b> small_green
-</div>",143,6014,10.9603468,-74.80675129999999,small_green
-131,POINT (-74.7956265 10.9904172),CALLE 60 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 144<br>
-<b>CODIGO:</b> 2280<br>
-<b>LOCALIZACION:</b> CALLE 60 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9904172<br>
-<b>LONGITUD:</b> -74.7956265<br>
-<b>ICONO:</b> small_green
-</div>",144,2280,10.9904172,-74.7956265,small_green
-132,POINT (-74.8035041 10.9714016),CALLE 61 CON CARRERA 24 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 145<br>
-<b>CODIGO:</b> 1309<br>
-<b>LOCALIZACION:</b> CALLE 61 CON CARRERA 24 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9714016<br>
-<b>LONGITUD:</b> -74.8035041<br>
-<b>ICONO:</b> small_green
-</div>",145,1309,10.9714016,-74.8035041,small_green
-133,POINT (-74.8032603 10.9755198),CALLE 61 CON CARRERA 27 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 146<br>
-<b>CODIGO:</b> 2316<br>
-<b>LOCALIZACION:</b> CALLE 61 CON CARRERA 27 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9755198<br>
-<b>LONGITUD:</b> -74.8032603<br>
-<b>ICONO:</b> small_green
-</div>",146,2316,10.9755198,-74.8032603,small_green
-134,POINT (-74.798959 10.9836332),CALLE 61 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 147<br>
-<b>CODIGO:</b> 1160<br>
-<b>LOCALIZACION:</b> CALLE 61 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9836332<br>
-<b>LONGITUD:</b> -74.798959<br>
-<b>ICONO:</b> small_green
-</div>",147,1160,10.9836332,-74.798959,small_green
-135,POINT (-74.7980043 10.9848317),CALLE 61 CON CARRERA 41 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 148<br>
-<b>CODIGO:</b> 1160<br>
-<b>LOCALIZACION:</b> CALLE 61 CON CARRERA 41 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9848317<br>
-<b>LONGITUD:</b> -74.7980043<br>
-<b>ICONO:</b> small_green
-</div>",148,1160,10.984831699999999,-74.79800429999999,small_green
-136,POINT (-74.7975661 10.986423),CALLE 61 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 149<br>
-<b>CODIGO:</b> 1160<br>
-<b>LOCALIZACION:</b> CALLE 61 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.986423<br>
-<b>LONGITUD:</b> -74.7975661<br>
-<b>ICONO:</b> small_green
-</div>",149,1160,10.986423,-74.7975661,small_green
-137,POINT (-74.7971482 10.9878254),CALLE 61 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 150<br>
-<b>CODIGO:</b> 2161<br>
-<b>LOCALIZACION:</b> CALLE 61 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9878254<br>
-<b>LONGITUD:</b> -74.7971482<br>
-<b>ICONO:</b> small_green
-</div>",150,2161,10.9878254,-74.79714820000001,small_green
-138,POINT (-74.7970541 10.9908089),CALLE 62 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 151<br>
-<b>CODIGO:</b> 2381<br>
-<b>LOCALIZACION:</b> CALLE 62 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9908089<br>
-<b>LONGITUD:</b> -74.7970541<br>
-<b>ICONO:</b> small_green
-</div>",151,2381,10.990808900000001,-74.7970541,small_green
-139,POINT (-74.8057368 10.9715268),CALLE 64 CON CARRERA 24 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 152<br>
-<b>CODIGO:</b> 1309<br>
-<b>LOCALIZACION:</b> CALLE 64 CON CARRERA 24 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9715268<br>
-<b>LONGITUD:</b> -74.8057368<br>
-<b>ICONO:</b> small_green
-</div>",152,1309,10.971526800000001,-74.8057368,small_green
-140,POINT (-74.8054204 10.9759955),CALLE 64 CON CARRERA 27 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 153<br>
-<b>CODIGO:</b> 6427<br>
-<b>LOCALIZACION:</b> CALLE 64 CON CARRERA 27 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9759955<br>
-<b>LONGITUD:</b> -74.8054204<br>
-<b>ICONO:</b> small_green
-</div>",153,6427,10.9759955,-74.8054204,small_green
-141,POINT (-74.79912 10.988912),CALLE 64 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 154<br>
-<b>CODIGO:</b> 6444<br>
-<b>LOCALIZACION:</b> CALLE 64 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.988912<br>
-<b>LONGITUD:</b> -74.79912<br>
-<b>ICONO:</b> small_green
-</div>",154,6444,10.988912,-74.79912,small_green
-142,POINT (-74.7984688 10.9911749),CALLE 64 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 155<br>
-<b>CODIGO:</b> 2380<br>
-<b>LOCALIZACION:</b> CALLE 64 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9911749<br>
-<b>LONGITUD:</b> -74.7984688<br>
-<b>ICONO:</b> small_green
-</div>",155,2380,10.9911749,-74.7984688,small_green
-143,POINT (-74.7958224 10.9952341),CALLE 64 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 156<br>
-<b>CODIGO:</b> 1272<br>
-<b>LOCALIZACION:</b> CALLE 64 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9952341<br>
-<b>LONGITUD:</b> -74.7958224<br>
-<b>ICONO:</b> small_green
-</div>",156,1272,10.9952341,-74.7958224,small_green
-144,POINT (-74.7948918 10.9958015),CALLE 64 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 157<br>
-<b>CODIGO:</b> 1272<br>
-<b>LOCALIZACION:</b> CALLE 64 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9958015<br>
-<b>LONGITUD:</b> -74.7948918<br>
-<b>ICONO:</b> small_green
-</div>",157,1272,10.9958015,-74.79489179999999,small_green
-145,POINT (-74.7946546 10.9959516),CALLE 64 CON CARRERA 58 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 158<br>
-<b>CODIGO:</b> 1272<br>
-<b>LOCALIZACION:</b> CALLE 64 CON CARRERA 58 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9959516<br>
-<b>LONGITUD:</b> -74.7946546<br>
-<b>ICONO:</b> small_green
-</div>",158,1272,10.9959516,-74.7946546,small_green
-146,POINT (-74.8097177 10.968804),CALLE 68 CON CARRERA 21B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 159<br>
-<b>CODIGO:</b> 6821<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 21B BARRANQUILLA<br>
-<b>LATITUD:</b> 10.968804<br>
-<b>LONGITUD:</b> -74.8097177<br>
-<b>ICONO:</b> small_green
-</div>",159,6821,10.968803999999999,-74.80971770000001,small_green
-147,POINT (-74.8068543 10.9765186),CALLE 68 CON CARRERA 27 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 160<br>
-<b>CODIGO:</b> 2314<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 27 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9765186<br>
-<b>LONGITUD:</b> -74.8068543<br>
-<b>ICONO:</b> small_green
-</div>",160,2314,10.9765186,-74.8068543,small_green
-148,POINT (-74.8045322 10.9807784),CALLE 68 CON CARRERA 32 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 161<br>
-<b>CODIGO:</b> 1313<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 32 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9807784<br>
-<b>LONGITUD:</b> -74.8045322<br>
-<b>ICONO:</b> small_green
-</div>",161,1313,10.9807784,-74.80453220000001,small_green
-149,POINT (-74.8034468 10.9833319),CALLE 68 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 162<br>
-<b>CODIGO:</b> 325<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9833319<br>
-<b>LONGITUD:</b> -74.8034468<br>
-<b>ICONO:</b> small_green
-</div>",162,325,10.9833319,-74.8034468,small_green
-150,POINT (-74.8021738 10.9889008),CALLE 68 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 163<br>
-<b>CODIGO:</b> 2377<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9889008<br>
-<b>LONGITUD:</b> -74.8021738<br>
-<b>ICONO:</b> small_green
-</div>",163,2377,10.9889008,-74.8021738,small_green
-151,POINT (-74.8019449 10.9897171),CALLE 68 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 164<br>
-<b>CODIGO:</b> 6844<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9897171<br>
-<b>LONGITUD:</b> -74.8019449<br>
-<b>ICONO:</b> small_green
-</div>",164,6844,10.9897171,-74.8019449,small_green
-152,POINT (-74.8015695 10.990999),CALLE 68 CON CARRERA 45 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 165<br>
-<b>CODIGO:</b> 6845<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 45 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.990999<br>
-<b>LONGITUD:</b> -74.8015695<br>
-<b>ICONO:</b> small_green
-</div>",165,6845,10.990999,-74.8015695,small_green
-153,POINT (-74.8012952 10.991962),CALLE 68 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 166<br>
-<b>CODIGO:</b> 2379<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.991962<br>
-<b>LONGITUD:</b> -74.8012952<br>
-<b>ICONO:</b> small_green
-</div>",166,2379,10.991962,-74.8012952,small_green
-154,POINT (-74.8009609 10.9931928),CALLE 68 CON CARRERA 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 167<br>
-<b>CODIGO:</b> 6847<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9931928<br>
-<b>LONGITUD:</b> -74.8009609<br>
-<b>ICONO:</b> small_green
-</div>",167,6847,10.993192800000001,-74.8009609,small_green
-155,POINT (-74.7997616 10.9951325),CALLE 68 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 168<br>
-<b>CODIGO:</b> 1269<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9951325<br>
-<b>LONGITUD:</b> -74.7997616<br>
-<b>ICONO:</b> small_green
-</div>",168,1269,10.9951325,-74.7997616,small_green
-156,POINT (-74.7980303 10.9962025),CALLE 68 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 169<br>
-<b>CODIGO:</b> 1270<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9962025<br>
-<b>LONGITUD:</b> -74.7980303<br>
-<b>ICONO:</b> small_green
-</div>",169,1270,10.996202499999999,-74.7980303,small_green
-157,POINT (-74.7975694 10.9971989),CALLE 68 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 170<br>
-<b>CODIGO:</b> 1270<br>
-<b>LOCALIZACION:</b> CALLE 68 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9971989<br>
-<b>LONGITUD:</b> -74.7975694<br>
-<b>ICONO:</b> small_green
-</div>",170,1270,10.9971989,-74.7975694,small_green
-158,POINT (-74.8038667 10.9868738),CALLE 69 CON CARRERA 41 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 171<br>
-<b>CODIGO:</b> 2377<br>
-<b>LOCALIZACION:</b> CALLE 69 CON CARRERA 41 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9868738<br>
-<b>LONGITUD:</b> -74.8038667<br>
-<b>ICONO:</b> small_green
-</div>",171,2377,10.986873800000001,-74.8038667,small_green
-159,POINT (-74.8030104 10.9893604),CALLE 69 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 172<br>
-<b>CODIGO:</b> 2377<br>
-<b>LOCALIZACION:</b> CALLE 69 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9893604<br>
-<b>LONGITUD:</b> -74.8030104<br>
-<b>ICONO:</b> small_green
-</div>",172,2377,10.9893604,-74.8030104,small_green
-160,POINT (-74.802703 10.9901915),CALLE 69 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 173<br>
-<b>CODIGO:</b> 2377<br>
-<b>LOCALIZACION:</b> CALLE 69 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9901915<br>
-<b>LONGITUD:</b> -74.802703<br>
-<b>ICONO:</b> small_green
-</div>",173,2377,10.9901915,-74.80270300000001,small_green
-161,POINT (-74.8019949 10.9923736),CALLE 69 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 174<br>
-<b>CODIGO:</b> 2379<br>
-<b>LOCALIZACION:</b> CALLE 69 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9923736<br>
-<b>LONGITUD:</b> -74.8019949<br>
-<b>ICONO:</b> small_green
-</div>",174,2379,10.992373599999999,-74.8019949,small_green
-162,POINT (-74.8026325 10.9946462),CALLE 70 CON CARRERA 48 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 175<br>
-<b>CODIGO:</b> 7048<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 48 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9946462<br>
-<b>LONGITUD:</b> -74.8026325<br>
-<b>ICONO:</b> small_green
-</div>",175,7048,10.9946462,-74.8026325,small_green
-163,POINT (-74.8081656 10.9844714),CALLE 70 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 176<br>
-<b>CODIGO:</b> 7038<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9844714<br>
-<b>LONGITUD:</b> -74.8081656<br>
-<b>ICONO:</b> small_green
-</div>",176,7038,10.9844714,-74.8081656,small_green
-164,POINT (-74.8061665 10.9881052),CALLE 70 CON CARRERA 41 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 177<br>
-<b>CODIGO:</b> 1371<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 41 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9881052<br>
-<b>LONGITUD:</b> -74.8061665<br>
-<b>ICONO:</b> small_green
-</div>",177,1371,10.9881052,-74.8061665,small_green
-165,POINT (-74.8048982 10.9903972),CALLE 70 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 178<br>
-<b>CODIGO:</b> 1371<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9903972<br>
-<b>LONGITUD:</b> -74.8048982<br>
-<b>ICONO:</b> small_green
-</div>",178,1371,10.9903972,-74.80489820000001,small_green
-166,POINT (-74.804406 10.9913249),CALLE 70 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 179<br>
-<b>CODIGO:</b> 1371<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9913249<br>
-<b>LONGITUD:</b> -74.804406<br>
-<b>ICONO:</b> small_green
-</div>",179,1371,10.9913249,-74.804406,small_green
-167,POINT (-74.8039222 10.9922433),CALLE 70 CON CARRERA 45 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 180<br>
-<b>CODIGO:</b> 2373<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 45 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9922433<br>
-<b>LONGITUD:</b> -74.8039222<br>
-<b>ICONO:</b> small_green
-</div>",180,2373,10.9922433,-74.8039222,small_green
-168,POINT (-74.803414 10.9931709),CALLE 70 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 181<br>
-<b>CODIGO:</b> 2375<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9931709<br>
-<b>LONGITUD:</b> -74.803414<br>
-<b>ICONO:</b> small_green
-</div>",181,2375,10.9931709,-74.803414,small_green
-169,POINT (-74.8030315 10.9938933),CALLE 70 CON CARRERA 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 182<br>
-<b>CODIGO:</b> 7048<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9938933<br>
-<b>LONGITUD:</b> -74.8030315<br>
-<b>ICONO:</b> small_green
-</div>",182,7048,10.9938933,-74.80303149999999,small_green
-170,POINT (-74.8014623 10.9964707),CALLE 70 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 183<br>
-<b>CODIGO:</b> 1268<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9964707<br>
-<b>LONGITUD:</b> -74.8014623<br>
-<b>ICONO:</b> small_green
-</div>",183,1268,10.9964707,-74.8014623,small_green
-171,POINT (-74.8007063 10.9972485),CALLE 70 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 184<br>
-<b>CODIGO:</b> 1268<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9972485<br>
-<b>LONGITUD:</b> -74.8007063<br>
-<b>ICONO:</b> small_green
-</div>",184,1268,10.9972485,-74.8007063,small_green
-172,POINT (-74.799857 10.9981308),CALLE 70 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 185<br>
-<b>CODIGO:</b> 1268<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9981308<br>
-<b>LONGITUD:</b> -74.799857<br>
-<b>ICONO:</b> small_green
-</div>",185,1268,10.9981308,-74.79985699999999,small_green
-173,POINT (-74.7975243 11.0000715),CALLE 70 CON CARRERA 58 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 186<br>
-<b>CODIGO:</b> 7058<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 58 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0000715<br>
-<b>LONGITUD:</b> -74.7975243<br>
-<b>ICONO:</b> small_green
-</div>",186,7058,11.000071499999999,-74.7975243,small_green
-174,POINT (-74.8094388 10.9831307),CALLE 70B CON CARRERA 34 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 187<br>
-<b>CODIGO:</b> 1320<br>
-<b>LOCALIZACION:</b> CALLE 70B CON CARRERA 34 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9831307<br>
-<b>LONGITUD:</b> -74.8094388<br>
-<b>ICONO:</b> small_green
-</div>",187,1320,10.983130699999998,-74.8094388,small_green
-175,POINT (-74.8097256 10.9768643),CALLE 70C CON CARRERA 27 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 188<br>
-<b>CODIGO:</b> 1319<br>
-<b>LOCALIZACION:</b> CALLE 70C CON CARRERA 27 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9768643<br>
-<b>LONGITUD:</b> -74.8097256<br>
-<b>ICONO:</b> small_green
-</div>",188,1319,10.9768643,-74.8097256,small_green
-176,POINT (-74.8101367 10.9769174),CALLE 71 CON CARRERA 27 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 189<br>
-<b>CODIGO:</b> 1319<br>
-<b>LOCALIZACION:</b> CALLE 71 CON CARRERA 27 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9769174<br>
-<b>LONGITUD:</b> -74.8101367<br>
-<b>ICONO:</b> small_green
-</div>",189,1319,10.9769174,-74.81013670000002,small_green
-177,POINT (-74.8108464 10.9824468),CALLE 71 CON CARRERA 34 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 190<br>
-<b>CODIGO:</b> 1320<br>
-<b>LOCALIZACION:</b> CALLE 71 CON CARRERA 34 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9824468<br>
-<b>LONGITUD:</b> -74.8108464<br>
-<b>ICONO:</b> small_green
-</div>",190,1320,10.9824468,-74.8108464,small_green
-178,POINT (-74.8111269 10.9853111),CALLE 72 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 191<br>
-<b>CODIGO:</b> 2328<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9853111<br>
-<b>LONGITUD:</b> -74.8111269<br>
-<b>ICONO:</b> small_green
-</div>",191,2328,10.985311099999999,-74.8111269,small_green
-179,POINT (-74.8085664 10.9892049),CALLE 72 CON CARRERA 41 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 192<br>
-<b>CODIGO:</b> 1329<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 41 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9892049<br>
-<b>LONGITUD:</b> -74.8085664<br>
-<b>ICONO:</b> small_green
-</div>",192,1329,10.9892049,-74.8085664,small_green
-180,POINT (-74.8071456 10.991598),CALLE 72 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 193<br>
-<b>CODIGO:</b> 1330<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.991598<br>
-<b>LONGITUD:</b> -74.8071456<br>
-<b>ICONO:</b> small_green
-</div>",193,1330,10.991598,-74.80714559999998,small_green
-181,POINT (-74.806522 10.9925193),CALLE 72 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 194<br>
-<b>CODIGO:</b> 1330<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9925193<br>
-<b>LONGITUD:</b> -74.806522<br>
-<b>ICONO:</b> small_green
-</div>",194,1330,10.992519300000001,-74.806522,small_green
-182,POINT (-74.8055641 10.9943913),CALLE 72 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 195<br>
-<b>CODIGO:</b> 7246<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9943913<br>
-<b>LONGITUD:</b> -74.8055641<br>
-<b>ICONO:</b> small_green
-</div>",195,7246,10.9943913,-74.8055641,small_green
-183,POINT (-74.8051319 10.9950587),CALLE 72 CON CARRERA 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 196<br>
-<b>CODIGO:</b> 7246<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9950587<br>
-<b>LONGITUD:</b> -74.8051319<br>
-<b>ICONO:</b> small_green
-</div>",196,7246,10.9950587,-74.8051319,small_green
-184,POINT (-74.8042551 10.9965549),CALLE 72 CON CARRERA 49 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 197<br>
-<b>CODIGO:</b> 7248<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 49 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9965549<br>
-<b>LONGITUD:</b> -74.8042551<br>
-<b>ICONO:</b> small_green
-</div>",197,7248,10.9965549,-74.80425509999999,small_green
-185,POINT (-74.8037816 10.9973183),CALLE 72 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 198<br>
-<b>CODIGO:</b> 1259<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9973183<br>
-<b>LONGITUD:</b> -74.8037816<br>
-<b>ICONO:</b> small_green
-</div>",198,1259,10.9973183,-74.8037816,small_green
-186,POINT (-74.8032762 10.9977678),CALLE 72 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 199<br>
-<b>CODIGO:</b> 1259<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9977678<br>
-<b>LONGITUD:</b> -74.8032762<br>
-<b>ICONO:</b> small_green
-</div>",199,1259,10.997767800000002,-74.8032762,small_green
-187,POINT (-74.8024851 10.9983184),CALLE 72 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 200<br>
-<b>CODIGO:</b> 7254<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9983184<br>
-<b>LONGITUD:</b> -74.8024851<br>
-<b>ICONO:</b> small_green
-</div>",200,7254,10.9983184,-74.80248509999998,small_green
-188,POINT (-74.801579 10.9989782),CALLE 72 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 201<br>
-<b>CODIGO:</b> 7254<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9989782<br>
-<b>LONGITUD:</b> -74.801579<br>
-<b>ICONO:</b> small_green
-</div>",201,7254,10.9989782,-74.801579,small_green
-189,POINT (-74.7992663 11.0006366),CALLE 72 CON CARRERA 57 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 202<br>
-<b>CODIGO:</b> 7257<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 57 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0006366<br>
-<b>LONGITUD:</b> -74.7992663<br>
-<b>ICONO:</b> small_green
-</div>",202,7257,11.0006366,-74.7992663,small_green
-190,POINT (-74.7984009 11.0012906),CALLE 72 CON CARRERA 58 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 203<br>
-<b>CODIGO:</b> 7258<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 58 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0012906<br>
-<b>LONGITUD:</b> -74.7984009<br>
-<b>ICONO:</b> small_green
-</div>",203,7258,11.0012906,-74.7984009,small_green
-191,POINT (-74.7976397 11.0018507),CALLE 72 CON CARRERA 59 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 204<br>
-<b>CODIGO:</b> 7258<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERA 59 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0018507<br>
-<b>LONGITUD:</b> -74.7976397<br>
-<b>ICONO:</b> small_green
-</div>",204,7258,11.0018507,-74.7976397,small_green
-192,POINT (-74.8046761 10.9957798),CALLE 72 CON CARRERAS 48 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 205<br>
-<b>CODIGO:</b> 7248<br>
-<b>LOCALIZACION:</b> CALLE 72 CON CARRERAS 48 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9957798<br>
-<b>LONGITUD:</b> -74.8046761<br>
-<b>ICONO:</b> small_green
-</div>",205,7248,10.995779800000001,-74.8046761,small_green
-193,POINT (-74.7903859 11.007878),CALLE 72 CON VIA 40 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 206<br>
-<b>CODIGO:</b> 2285<br>
-<b>LOCALIZACION:</b> CALLE 72 CON VIA 40 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.007878<br>
-<b>LONGITUD:</b> -74.7903859<br>
-<b>ICONO:</b> small_green
-</div>",206,2285,11.007878,-74.7903859,small_green
-194,POINT (-74.8118419 10.9887214),CALLE 74 CON CARRERA 39 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 207<br>
-<b>CODIGO:</b> 7439<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 39 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9887214<br>
-<b>LONGITUD:</b> -74.8118419<br>
-<b>ICONO:</b> small_green
-</div>",207,7439,10.988721400000001,-74.8118419,small_green
-195,POINT (-74.8095309 10.9925952),CALLE 74 CON CARRERA 42F BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 208<br>
-<b>CODIGO:</b> 1358<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 42F BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9925952<br>
-<b>LONGITUD:</b> -74.8095309<br>
-<b>ICONO:</b> small_green
-</div>",208,1358,10.992595199999998,-74.8095309,small_green
-196,POINT (-74.8093518 10.9929092),CALLE 74 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 209<br>
-<b>CODIGO:</b> 1358<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9929092<br>
-<b>LONGITUD:</b> -74.8093518<br>
-<b>ICONO:</b> small_green
-</div>",209,1358,10.9929092,-74.80935179999999,small_green
-197,POINT (-74.8087984 10.9938169),CALLE 74 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 210<br>
-<b>CODIGO:</b> 1358<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9938169<br>
-<b>LONGITUD:</b> -74.8087984<br>
-<b>ICONO:</b> small_green
-</div>",210,1358,10.9938169,-74.8087984,small_green
-198,POINT (-74.8077912 10.9955138),CALLE 74 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 211<br>
-<b>CODIGO:</b> 7446<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9955138<br>
-<b>LONGITUD:</b> -74.8077912<br>
-<b>ICONO:</b> small_green
-</div>",211,7446,10.995513800000001,-74.8077912,small_green
-199,POINT (-74.8070974 10.9963343),CALLE 74 CON CARRERA 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 212<br>
-<b>CODIGO:</b> 7446<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9963343<br>
-<b>LONGITUD:</b> -74.8070974<br>
-<b>ICONO:</b> small_green
-</div>",212,7446,10.996334300000001,-74.8070974,small_green
-200,POINT (-74.8065511 10.9969606),CALLE 74 CON CARRERA 48 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 213<br>
-<b>CODIGO:</b> 7448<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 48 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9969606<br>
-<b>LONGITUD:</b> -74.8065511<br>
-<b>ICONO:</b> small_green
-</div>",213,7448,10.9969606,-74.8065511,small_green
-201,POINT (-74.8043755 10.9992924),CALLE 74 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 214<br>
-<b>CODIGO:</b> 1255<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9992924<br>
-<b>LONGITUD:</b> -74.8043755<br>
-<b>ICONO:</b> small_green
-</div>",214,1255,10.9992924,-74.8043755,small_green
-202,POINT (-74.8035836 10.9998159),CALLE 74 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 215<br>
-<b>CODIGO:</b> 1255<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9998159<br>
-<b>LONGITUD:</b> -74.8035836<br>
-<b>ICONO:</b> small_green
-</div>",215,1255,10.9998159,-74.8035836,small_green
-203,POINT (-74.8027444 11.0004595),CALLE 74 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 216<br>
-<b>CODIGO:</b> 1255<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0004595<br>
-<b>LONGITUD:</b> -74.8027444<br>
-<b>ICONO:</b> small_green
-</div>",216,1255,11.0004595,-74.80274440000001,small_green
-204,POINT (-74.7995166 11.0027688),CALLE 74 CON CARRERA 58 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 217<br>
-<b>CODIGO:</b> 1257<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 58 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0027688<br>
-<b>LONGITUD:</b> -74.7995166<br>
-<b>ICONO:</b> small_green
-</div>",217,1257,11.0027688,-74.79951659999999,small_green
-205,POINT (-74.8159736 10.9793537),CALLE 75 CON CARRERA 26C7 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 218<br>
-<b>CODIGO:</b> 2315<br>
-<b>LOCALIZACION:</b> CALLE 75 CON CARRERA 26C7 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9793537<br>
-<b>LONGITUD:</b> -74.8159736<br>
-<b>ICONO:</b> small_green
-</div>",218,2315,10.979353699999999,-74.81597359999999,small_green
-206,POINT (-74.806188 11.000179),CALLE 75 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 219<br>
-<b>CODIGO:</b> 7950<br>
-<b>LOCALIZACION:</b> CALLE 75 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.000179<br>
-<b>LONGITUD:</b> -74.806188<br>
-<b>ICONO:</b> small_green
-</div>",219,7950,11.000179,-74.806188,small_green
-207,POINT (-74.8054417 11.0007269),CALLE 75 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 220<br>
-<b>CODIGO:</b> 1254<br>
-<b>LOCALIZACION:</b> CALLE 75 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0007269<br>
-<b>LONGITUD:</b> -74.8054417<br>
-<b>ICONO:</b> small_green
-</div>",220,1254,11.0007269,-74.8054417,small_green
-208,POINT (-74.8046848 11.0012798),CALLE 75 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 221<br>
-<b>CODIGO:</b> 1254<br>
-<b>LOCALIZACION:</b> CALLE 75 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0012798<br>
-<b>LONGITUD:</b> -74.8046848<br>
-<b>ICONO:</b> small_green
-</div>",221,1254,11.0012798,-74.8046848,small_green
-209,POINT (-74.8038221 11.0018994),CALLE 75 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 222<br>
-<b>CODIGO:</b> 1254<br>
-<b>LOCALIZACION:</b> CALLE 75 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0018994<br>
-<b>LONGITUD:</b> -74.8038221<br>
-<b>ICONO:</b> small_green
-</div>",222,1254,11.001899400000001,-74.80382209999999,small_green
-210,POINT (-74.8005923 11.0042019),CALLE 75 CON CARRERA 58 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 223<br>
-<b>CODIGO:</b> 1257<br>
-<b>LOCALIZACION:</b> CALLE 75 CON CARRERA 58 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0042019<br>
-<b>LONGITUD:</b> -74.8005923<br>
-<b>ICONO:</b> small_green
-</div>",223,1257,11.0042019,-74.80059229999999,small_green
-211,POINT (-74.8136587 10.9923109),CALLE 76 CON CARRERA 42 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 224<br>
-<b>CODIGO:</b> 7642<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 42 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9923109<br>
-<b>LONGITUD:</b> -74.8136587<br>
-<b>ICONO:</b> small_green
-</div>",224,7642,10.9923109,-74.8136587,small_green
-212,POINT (-74.8162356 10.9866404),CALLE 76 CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 225<br>
-<b>CODIGO:</b> 1323<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9866404<br>
-<b>LONGITUD:</b> -74.8162356<br>
-<b>ICONO:</b> small_green
-</div>",225,1323,10.9866404,-74.81623559999998,small_green
-213,POINT (-74.8135302 10.9936627),CALLE 76 CON CARRERA 42F BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 226<br>
-<b>CODIGO:</b> 2351<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 42F BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9936627<br>
-<b>LONGITUD:</b> -74.8135302<br>
-<b>ICONO:</b> small_green
-</div>",226,2351,10.9936627,-74.8135302,small_green
-214,POINT (-74.811597 10.9942397),CALLE 76 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 227<br>
-<b>CODIGO:</b> 1356<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9942397<br>
-<b>LONGITUD:</b> -74.811597<br>
-<b>ICONO:</b> small_green
-</div>",227,1356,10.9942397,-74.81159699999999,small_green
-215,POINT (-74.8109259 10.9953433),CALLE 76 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 228<br>
-<b>CODIGO:</b> 1356<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9953433<br>
-<b>LONGITUD:</b> -74.8109259<br>
-<b>ICONO:</b> small_green
-</div>",228,1356,10.9953433,-74.8109259,small_green
-216,POINT (-74.8100681 10.9968087),CALLE 76 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 229<br>
-<b>CODIGO:</b> 1356<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9968087<br>
-<b>LONGITUD:</b> -74.8100681<br>
-<b>ICONO:</b> small_green
-</div>",229,1356,10.9968087,-74.8100681,small_green
-217,POINT (-74.8096969 10.9974724),CALLE 76 CON CARRERA 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 230<br>
-<b>CODIGO:</b> 1357<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9974724<br>
-<b>LONGITUD:</b> -74.8096969<br>
-<b>ICONO:</b> small_green
-</div>",230,1357,10.9974724,-74.8096969,small_green
-218,POINT (-74.809253 10.9982136),CALLE 76 CON CARRERA 48 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 231<br>
-<b>CODIGO:</b> 7648<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 48 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9982136<br>
-<b>LONGITUD:</b> -74.809253<br>
-<b>ICONO:</b> small_green
-</div>",231,7648,10.9982136,-74.809253,small_green
-219,POINT (-74.8085037 10.9998393),CALLE 76 CON CARRERA 49C BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 232<br>
-<b>CODIGO:</b> 1248<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 49C BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9998393<br>
-<b>LONGITUD:</b> -74.8085037<br>
-<b>ICONO:</b> small_green
-</div>",232,1248,10.999839300000001,-74.8085037,small_green
-220,POINT (-74.8072116 11.0017048),CALLE 76 CON CARRERA 51B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 233<br>
-<b>CODIGO:</b> 1248<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 51B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0017048<br>
-<b>LONGITUD:</b> -74.8072116<br>
-<b>ICONO:</b> small_green
-</div>",233,1248,11.0017048,-74.80721159999999,small_green
-221,POINT (-74.8065252 11.0021807),CALLE 76 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 234<br>
-<b>CODIGO:</b> 1253<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0021807<br>
-<b>LONGITUD:</b> -74.8065252<br>
-<b>ICONO:</b> small_green
-</div>",234,1253,11.002180699999998,-74.8065252,small_green
-222,POINT (-74.8057707 11.0027291),CALLE 76 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 235<br>
-<b>CODIGO:</b> 1253<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0027291<br>
-<b>LONGITUD:</b> -74.8057707<br>
-<b>ICONO:</b> small_green
-</div>",235,1253,11.0027291,-74.80577070000001,small_green
-223,POINT (-74.8050667 11.0032494),CALLE 76 CON CARRERA 54 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 236<br>
-<b>CODIGO:</b> 1253<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 54 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0032494<br>
-<b>LONGITUD:</b> -74.8050667<br>
-<b>ICONO:</b> small_green
-</div>",236,1253,11.003249400000001,-74.8050667,small_green
-224,POINT (-74.8033079 11.0045029),CALLE 76 CON CARRERA 56 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 237<br>
-<b>CODIGO:</b> 7656<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 56 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0045029<br>
-<b>LONGITUD:</b> -74.8033079<br>
-<b>ICONO:</b> small_green
-</div>",237,7656,11.0045029,-74.80330790000001,small_green
-225,POINT (-74.802571 11.005061),CALLE 76 CON CARRERA 57 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 238<br>
-<b>CODIGO:</b> 7656<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 57 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.005061<br>
-<b>LONGITUD:</b> -74.802571<br>
-<b>ICONO:</b> small_green
-</div>",238,7656,11.005061,-74.802571,small_green
-226,POINT (-74.801706 11.0057036),CALLE 76 CON CARRERA 58 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 239<br>
-<b>CODIGO:</b> 1246<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 58 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0057036<br>
-<b>LONGITUD:</b> -74.801706<br>
-<b>ICONO:</b> small_green
-</div>",239,1246,11.005703599999999,-74.80170600000001,small_green
-227,POINT (-74.8009011 11.0062431),CALLE 76 CON CARRERA 59 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 240<br>
-<b>CODIGO:</b> 7660<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 59 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0062431<br>
-<b>LONGITUD:</b> -74.8009011<br>
-<b>ICONO:</b> small_green
-</div>",240,7660,11.006243099999999,-74.80090109999999,small_green
-228,POINT (-74.8216827 10.9456934),CALLE 76 CON CARRERA 6 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 241<br>
-<b>CODIGO:</b> 2006<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 6 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9456934<br>
-<b>LONGITUD:</b> -74.8216827<br>
-<b>ICONO:</b> small_green
-</div>",241,2006,10.945693400000001,-74.82168270000001,small_green
-229,POINT (-74.8001673 11.0067707),CALLE 76 CON CARRERA 60 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 242<br>
-<b>CODIGO:</b> 7660<br>
-<b>LOCALIZACION:</b> CALLE 76 CON CARRERA 60 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0067707<br>
-<b>LONGITUD:</b> -74.8001673<br>
-<b>ICONO:</b> small_green
-</div>",242,7660,11.006770699999999,-74.8001673,small_green
-230,POINT (-74.8137955 10.9937509),CALLE 76B CON CARRERA 42F BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 243<br>
-<b>CODIGO:</b> 2351<br>
-<b>LOCALIZACION:</b> CALLE 76B CON CARRERA 42F BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9937509<br>
-<b>LONGITUD:</b> -74.8137955<br>
-<b>ICONO:</b> small_green
-</div>",243,2351,10.9937509,-74.8137955,small_green
-231,POINT (-74.8016404 11.0068867),CALLE 77 CON CARRERA 59 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 244<br>
-<b>CODIGO:</b> 7759<br>
-<b>LOCALIZACION:</b> CALLE 77 CON CARRERA 59 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0068867<br>
-<b>LONGITUD:</b> -74.8016404<br>
-<b>ICONO:</b> small_green
-</div>",244,7759,11.006886699999999,-74.80164040000001,small_green
-232,POINT (-74.8011879 11.0081521),CALLE 77 CON CARRERA 60 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 245<br>
-<b>CODIGO:</b> 1244<br>
-<b>LOCALIZACION:</b> CALLE 77 CON CARRERA 60 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0081521<br>
-<b>LONGITUD:</b> -74.8011879<br>
-<b>ICONO:</b> small_green
-</div>",245,1244,11.0081521,-74.8011879,small_green
-233,POINT (-74.8136578 10.9953249),CALLE 79 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 246<br>
-<b>CODIGO:</b> 1353<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9953249<br>
-<b>LONGITUD:</b> -74.8136578<br>
-<b>ICONO:</b> small_green
-</div>",246,1353,10.995324900000002,-74.8136578,small_green
-234,POINT (-74.8129678 10.9964759),CALLE 79 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 247<br>
-<b>CODIGO:</b> 1353<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9964759<br>
-<b>LONGITUD:</b> -74.8129678<br>
-<b>ICONO:</b> small_green
-</div>",247,1353,10.9964759,-74.8129678,small_green
-235,POINT (-74.8120945 10.997987),CALLE 79 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 248<br>
-<b>CODIGO:</b> 1355<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.997987<br>
-<b>LONGITUD:</b> -74.8120945<br>
-<b>ICONO:</b> small_green
-</div>",248,1355,10.997987,-74.8120945,small_green
-236,POINT (-74.8117193 10.9986453),CALLE 79 CON CARRERA 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 249<br>
-<b>CODIGO:</b> 1355<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9986453<br>
-<b>LONGITUD:</b> -74.8117193<br>
-<b>ICONO:</b> small_green
-</div>",249,1355,10.998645300000002,-74.8117193,small_green
-237,POINT (-74.8110692 11.0000584),CALLE 79 CON CARRERA 49C BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 250<br>
-<b>CODIGO:</b> 1235<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 49C BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0000584<br>
-<b>LONGITUD:</b> -74.8110692<br>
-<b>ICONO:</b> small_green
-</div>",250,1235,11.0000584,-74.8110692,small_green
-238,POINT (-74.8104505 11.0009055),CALLE 79 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 251<br>
-<b>CODIGO:</b> 1235<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0009055<br>
-<b>LONGITUD:</b> -74.8104505<br>
-<b>ICONO:</b> small_green
-</div>",251,1235,11.0009055,-74.8104505,small_green
-239,POINT (-74.8097543 11.0018231),CALLE 79 CON CARRERA 51 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 252<br>
-<b>CODIGO:</b> 1236<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 51 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0018231<br>
-<b>LONGITUD:</b> -74.8097543<br>
-<b>ICONO:</b> small_green
-</div>",252,1236,11.0018231,-74.8097543,small_green
-240,POINT (-74.8091471 11.0026222),CALLE 79 CON CARRERA 51B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 253<br>
-<b>CODIGO:</b> 1236<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 51B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0026222<br>
-<b>LONGITUD:</b> -74.8091471<br>
-<b>ICONO:</b> small_green
-</div>",253,1236,11.0026222,-74.80914709999999,small_green
-241,POINT (-74.8085522 11.003424),CALLE 79 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 254<br>
-<b>CODIGO:</b> 1234<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.003424<br>
-<b>LONGITUD:</b> -74.8085522<br>
-<b>ICONO:</b> small_green
-</div>",254,1234,11.003424,-74.8085522,small_green
-242,POINT (-74.8081282 11.004304),CALLE 79 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 255<br>
-<b>CODIGO:</b> 1234<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.004304<br>
-<b>LONGITUD:</b> -74.8081282<br>
-<b>ICONO:</b> small_green
-</div>",255,1234,11.004304,-74.8081282,small_green
-243,POINT (-74.8050155 11.008813),CALLE 79 CON CARRERA 59B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 256<br>
-<b>CODIGO:</b> 1232<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 59B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.008813<br>
-<b>LONGITUD:</b> -74.8050155<br>
-<b>ICONO:</b> small_green
-</div>",256,1232,11.008813,-74.8050155,small_green
-244,POINT (-74.8046574 11.0092328),CALLE 79 CON CARRERA 60 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 257<br>
-<b>CODIGO:</b> 1232<br>
-<b>LOCALIZACION:</b> CALLE 79 CON CARRERA 60 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0092328<br>
-<b>LONGITUD:</b> -74.8046574<br>
-<b>ICONO:</b> small_green
-</div>",257,1232,11.009232800000001,-74.8046574,small_green
-245,POINT (-74.818183 10.9871381),CALLE 79A CON CARRERA 38 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 258<br>
-<b>CODIGO:</b> 1323<br>
-<b>LOCALIZACION:</b> CALLE 79A CON CARRERA 38 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9871381<br>
-<b>LONGITUD:</b> -74.818183<br>
-<b>ICONO:</b> small_green
-</div>",258,1323,10.9871381,-74.81818299999999,small_green
-246,POINT (-74.8168731 10.9943343),CALLE 80 CON CARRERA 42F BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 259<br>
-<b>CODIGO:</b> 2350<br>
-<b>LOCALIZACION:</b> CALLE 80 CON CARRERA 42F BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9943343<br>
-<b>LONGITUD:</b> -74.8168731<br>
-<b>ICONO:</b> small_green
-</div>",259,2350,10.9943343,-74.8168731,small_green
-247,POINT (-74.8158477 10.9964867),CALLE 80 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 260<br>
-<b>CODIGO:</b> 8043<br>
-<b>LOCALIZACION:</b> CALLE 80 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9964867<br>
-<b>LONGITUD:</b> -74.8158477<br>
-<b>ICONO:</b> small_green
-</div>",260,8043,10.9964867,-74.8158477,small_green
-248,POINT (-74.8142506 10.9992163),CALLE 80 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 261<br>
-<b>CODIGO:</b> 8046<br>
-<b>LOCALIZACION:</b> CALLE 80 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9992163<br>
-<b>LONGITUD:</b> -74.8142506<br>
-<b>ICONO:</b> small_green
-</div>",261,8046,10.9992163,-74.8142506,small_green
-249,POINT (-74.8133817 11.0010288),CALLE 80 CON CARRERA 49C BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 262<br>
-<b>CODIGO:</b> 8050<br>
-<b>LOCALIZACION:</b> CALLE 80 CON CARRERA 49C BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0010288<br>
-<b>LONGITUD:</b> -74.8133817<br>
-<b>ICONO:</b> small_green
-</div>",262,8050,11.0010288,-74.81338170000001,small_green
-250,POINT (-74.8126246 11.0017022),CALLE 80 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 263<br>
-<b>CODIGO:</b> 8050<br>
-<b>LOCALIZACION:</b> CALLE 80 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0017022<br>
-<b>LONGITUD:</b> -74.8126246<br>
-<b>ICONO:</b> small_green
-</div>",263,8050,11.0017022,-74.81262459999999,small_green
-251,POINT (-74.8225333 10.989036),CALLE 80B CON CARRERA 42 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 265<br>
-<b>CODIGO:</b> 8042<br>
-<b>LOCALIZACION:</b> CALLE 80B CON CARRERA 42 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.989036<br>
-<b>LONGITUD:</b> -74.8225333<br>
-<b>ICONO:</b> small_green
-</div>",265,8042,10.989036,-74.8225333,small_green
-252,POINT (-74.8183497 10.996878),CALLE 82 CON CARRERA 42H BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 266<br>
-<b>CODIGO:</b> 1349<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 42H BARRANQUILLA<br>
-<b>LATITUD:</b> 10.996878<br>
-<b>LONGITUD:</b> -74.8183497<br>
-<b>ICONO:</b> small_green
-</div>",266,1349,10.996878,-74.8183497,small_green
-253,POINT (-74.817993 10.9976459),CALLE 82 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 267<br>
-<b>CODIGO:</b> 1349<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9976459<br>
-<b>LONGITUD:</b> -74.817993<br>
-<b>ICONO:</b> small_green
-</div>",267,1349,10.9976459,-74.817993,small_green
-254,POINT (-74.81742 10.9990717),CALLE 82 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 268<br>
-<b>CODIGO:</b> 1349<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9990717<br>
-<b>LONGITUD:</b> -74.81742<br>
-<b>ICONO:</b> small_green
-</div>",268,1349,10.999071699999998,-74.81742,small_green
-255,POINT (-74.8167568 11.0006369),CALLE 82 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 269<br>
-<b>CODIGO:</b> 1229<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0006369<br>
-<b>LONGITUD:</b> -74.8167568<br>
-<b>ICONO:</b> small_green
-</div>",269,1229,11.0006369,-74.8167568,small_green
-256,POINT (-74.8164114 11.0013593),CALLE 82 CON CARRERA 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 270<br>
-<b>CODIGO:</b> 1229<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0013593<br>
-<b>LONGITUD:</b> -74.8164114<br>
-<b>ICONO:</b> small_green
-</div>",270,1229,11.0013593,-74.8164114,small_green
-257,POINT (-74.8159369 11.0020827),CALLE 82 CON CARRERA 49C BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 271<br>
-<b>CODIGO:</b> 1229<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 49C BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0020827<br>
-<b>LONGITUD:</b> -74.8159369<br>
-<b>ICONO:</b> small_green
-</div>",271,1229,11.002082699999999,-74.81593690000001,small_green
-258,POINT (-74.8154409 11.0029034),CALLE 82 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 272<br>
-<b>CODIGO:</b> 8250<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0029034<br>
-<b>LONGITUD:</b> -74.8154409<br>
-<b>ICONO:</b> small_green
-</div>",272,8250,11.0029034,-74.81544090000001,small_green
-259,POINT (-74.814866 11.0037485),CALLE 82 CON CARRERA 51 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 273<br>
-<b>CODIGO:</b> 8250<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 51 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0037485<br>
-<b>LONGITUD:</b> -74.814866<br>
-<b>ICONO:</b> small_green
-</div>",273,8250,11.0037485,-74.81486600000001,small_green
-260,POINT (-74.8143788 11.0044963),CALLE 82 CON CARRERA 51B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 274<br>
-<b>CODIGO:</b> 8252<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 51B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0044963<br>
-<b>LONGITUD:</b> -74.8143788<br>
-<b>ICONO:</b> small_green
-</div>",274,8252,11.0044963,-74.8143788,small_green
-261,POINT (-74.813897 11.005283),CALLE 82 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 275<br>
-<b>CODIGO:</b> 8252<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.005283<br>
-<b>LONGITUD:</b> -74.813897<br>
-<b>ICONO:</b> small_green
-</div>",275,8252,11.005283,-74.813897,small_green
-262,POINT (-74.8133269 11.0061612),CALLE 82 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 276<br>
-<b>CODIGO:</b> 2231<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0061612<br>
-<b>LONGITUD:</b> -74.8133269<br>
-<b>ICONO:</b> small_green
-</div>",276,2231,11.0061612,-74.8133269,small_green
-263,POINT (-74.8127537 11.0070276),CALLE 82 CON CARRERA 55 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 277<br>
-<b>CODIGO:</b> 2231<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 55 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0070276<br>
-<b>LONGITUD:</b> -74.8127537<br>
-<b>ICONO:</b> small_green
-</div>",277,2231,11.0070276,-74.8127537,small_green
-264,POINT (-74.8117652 11.0086374),CALLE 82 CON CARRERA 57 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 278<br>
-<b>CODIGO:</b> 8257<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 57 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0086374<br>
-<b>LONGITUD:</b> -74.8117652<br>
-<b>ICONO:</b> small_green
-</div>",278,8257,11.008637400000001,-74.8117652,small_green
-265,POINT (-74.8114825 11.0094152),CALLE 82 CON CARRERA 58 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 279<br>
-<b>CODIGO:</b> 8257<br>
-<b>LOCALIZACION:</b> CALLE 82 CON CARRERA 58 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0094152<br>
-<b>LONGITUD:</b> -74.8114825<br>
-<b>ICONO:</b> small_green
-</div>",279,8257,11.0094152,-74.8114825,small_green
-266,POINT (-74.820031 10.9984431),CALLE 84 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 280<br>
-<b>CODIGO:</b> 1347<br>
-<b>LOCALIZACION:</b> CALLE 84 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9984431<br>
-<b>LONGITUD:</b> -74.820031<br>
-<b>ICONO:</b> small_green
-</div>",280,1347,10.9984431,-74.820031,small_green
-267,POINT (-74.81953 11.0000323),CALLE 84 CON CARRERA 44 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 281<br>
-<b>CODIGO:</b> 1347<br>
-<b>LOCALIZACION:</b> CALLE 84 CON CARRERA 44 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0000323<br>
-<b>LONGITUD:</b> -74.81953<br>
-<b>ICONO:</b> small_green
-</div>",281,1347,11.0000323,-74.81953,small_green
-268,POINT (-74.8190021 11.0016435),CALLE 84 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 282<br>
-<b>CODIGO:</b> 1347<br>
-<b>LOCALIZACION:</b> CALLE 84 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0016435<br>
-<b>LONGITUD:</b> -74.8190021<br>
-<b>ICONO:</b> small_green
-</div>",282,1347,11.0016435,-74.81900209999999,small_green
-269,POINT (-74.8187255 11.0023999),CALLE 84 CON CARRERA 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 283<br>
-<b>CODIGO:</b> 1228<br>
-<b>LOCALIZACION:</b> CALLE 84 CON CARRERA 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0023999<br>
-<b>LONGITUD:</b> -74.8187255<br>
-<b>ICONO:</b> small_green
-</div>",283,1228,11.0023999,-74.8187255,small_green
-270,POINT (-74.8183944 11.0031341),CALLE 84 CON CARRERA 49C BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 284<br>
-<b>CODIGO:</b> 1228<br>
-<b>LOCALIZACION:</b> CALLE 84 CON CARRERA 49C BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0031341<br>
-<b>LONGITUD:</b> -74.8183944<br>
-<b>ICONO:</b> small_green
-</div>",284,1228,11.0031341,-74.8183944,small_green
-271,POINT (-74.8179766 11.0040404),CALLE 84 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 285<br>
-<b>CODIGO:</b> 1228<br>
-<b>LOCALIZACION:</b> CALLE 84 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0040404<br>
-<b>LONGITUD:</b> -74.8179766<br>
-<b>ICONO:</b> small_green
-</div>",285,1228,11.004040400000001,-74.8179766,small_green
-272,POINT (-74.8175542 11.0049463),CALLE 84 CON CARRERA 51 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 286<br>
-<b>CODIGO:</b> 8451<br>
-<b>LOCALIZACION:</b> CALLE 84 CON CARRERA 51 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0049463<br>
-<b>LONGITUD:</b> -74.8175542<br>
-<b>ICONO:</b> small_green
-</div>",286,8451,11.0049463,-74.8175542,small_green
-273,POINT (-74.8132658 11.0093433),CALLE 84 CON CARRERA 57 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 290<br>
-<b>CODIGO:</b> 8457<br>
-<b>LOCALIZACION:</b> CALLE 84 CON CARRERA 57 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0093433<br>
-<b>LONGITUD:</b> -74.8132658<br>
-<b>ICONO:</b> small_green
-</div>",290,8457,11.009343300000001,-74.8132658,small_green
-274,POINT (-74.812532 11.0099045),CALLE 84 CON CARRERA 58 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 291<br>
-<b>CODIGO:</b> 8457<br>
-<b>LOCALIZACION:</b> CALLE 84 CON CARRERA 58 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0099045<br>
-<b>LONGITUD:</b> -74.812532<br>
-<b>ICONO:</b> small_green
-</div>",291,8457,11.0099045,-74.81253199999999,small_green
-275,POINT (-74.8222857 10.9991116),CALLE 85 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 292<br>
-<b>CODIGO:</b> 8543<br>
-<b>LOCALIZACION:</b> CALLE 85 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 10.9991116<br>
-<b>LONGITUD:</b> -74.8222857<br>
-<b>ICONO:</b> small_green
-</div>",292,8543,10.999111599999999,-74.82228570000001,small_green
-276,POINT (-74.8210462 11.0023332),CALLE 85 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 293<br>
-<b>CODIGO:</b> 2345<br>
-<b>LOCALIZACION:</b> CALLE 85 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0023332<br>
-<b>LONGITUD:</b> -74.8210462<br>
-<b>ICONO:</b> small_green
-</div>",293,2345,11.002333199999999,-74.82104620000001,small_green
-277,POINT (-74.8203225 11.004017),CALLE 85 CON CARRERA 49C BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 294<br>
-<b>CODIGO:</b> 8550<br>
-<b>LOCALIZACION:</b> CALLE 85 CON CARRERA 49C BARRANQUILLA<br>
-<b>LATITUD:</b> 11.004017<br>
-<b>LONGITUD:</b> -74.8203225<br>
-<b>ICONO:</b> small_green
-</div>",294,8550,11.004017,-74.8203225,small_green
-278,POINT (-74.8198862 11.0049151),CALLE 85 CON CARRERA 50 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 295<br>
-<b>CODIGO:</b> 8550<br>
-<b>LOCALIZACION:</b> CALLE 85 CON CARRERA 50 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0049151<br>
-<b>LONGITUD:</b> -74.8198862<br>
-<b>ICONO:</b> small_green
-</div>",295,8550,11.0049151,-74.81988620000001,small_green
-279,POINT (-74.8190697 11.0066005),CALLE 85 CON CARRERA 51B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 296<br>
-<b>CODIGO:</b> 8553<br>
-<b>LOCALIZACION:</b> CALLE 85 CON CARRERA 51B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0066005<br>
-<b>LONGITUD:</b> -74.8190697<br>
-<b>ICONO:</b> small_green
-</div>",296,8553,11.006600500000001,-74.8190697,small_green
-280,POINT (-74.8182891 11.0072921),CALLE 85 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 297<br>
-<b>CODIGO:</b> 8553<br>
-<b>LOCALIZACION:</b> CALLE 85 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0072921<br>
-<b>LONGITUD:</b> -74.8182891<br>
-<b>ICONO:</b> small_green
-</div>",297,8553,11.0072921,-74.8182891,small_green
-281,POINT (-74.8171564 11.0078847),CALLE 85 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 298<br>
-<b>CODIGO:</b> 8553<br>
-<b>LOCALIZACION:</b> CALLE 85 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0078847<br>
-<b>LONGITUD:</b> -74.8171564<br>
-<b>ICONO:</b> small_green
-</div>",298,8553,11.0078847,-74.8171564,small_green
-282,POINT (-74.8146798 11.0108647),CALLE 85 CON CARRERA 58 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 299<br>
-<b>CODIGO:</b> 8558<br>
-<b>LOCALIZACION:</b> CALLE 85 CON CARRERA 58 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0108647<br>
-<b>LONGITUD:</b> -74.8146798<br>
-<b>ICONO:</b> small_green
-</div>",299,8558,11.010864699999999,-74.8146798,small_green
-283,POINT (-74.8136675 11.0122192),CALLE 85 CON CARRERA 59B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 300<br>
-<b>CODIGO:</b> 8559<br>
-<b>LOCALIZACION:</b> CALLE 85 CON CARRERA 59B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0122192<br>
-<b>LONGITUD:</b> -74.8136675<br>
-<b>ICONO:</b> small_green
-</div>",300,8559,11.012219199999999,-74.81366750000001,small_green
-284,POINT (-74.8228939 11.00287),CALLE 87 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 304<br>
-<b>CODIGO:</b> 2348<br>
-<b>LOCALIZACION:</b> CALLE 87 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.00287<br>
-<b>LONGITUD:</b> -74.8228939<br>
-<b>ICONO:</b> small_green
-</div>",304,2348,11.00287,-74.8228939,small_green
-285,POINT (-74.8227352 11.0031539),CALLE 87 CON CARRERA 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 305<br>
-<b>CODIGO:</b> 2348<br>
-<b>LOCALIZACION:</b> CALLE 87 CON CARRERA 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0031539<br>
-<b>LONGITUD:</b> -74.8227352<br>
-<b>ICONO:</b> small_green
-</div>",305,2348,11.003153900000001,-74.82273520000001,small_green
-286,POINT (-74.82365 11.003161),CALLE 88 CON CARRERA 46 y 47 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 307<br>
-<b>CODIGO:</b> 8846<br>
-<b>LOCALIZACION:</b> CALLE 88 CON CARRERA 46 y 47 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.003161<br>
-<b>LONGITUD:</b> -74.823650<br>
-<b>ICONO:</b> small_green
-</div>",307,8846,11.003161,-74.82365,small_green
-287,POINT (-74.8194759 11.0106504),CALLE 89 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 308<br>
-<b>CODIGO:</b> 1224<br>
-<b>LOCALIZACION:</b> CALLE 89 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0106504<br>
-<b>LONGITUD:</b> -74.8194759<br>
-<b>ICONO:</b> small_green
-</div>",308,1224,11.0106504,-74.81947590000001,small_green
-288,POINT (-74.8244554 11.0035887),CALLE 90 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 309<br>
-<b>CODIGO:</b> 9046<br>
-<b>LOCALIZACION:</b> CALLE 90 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0035887<br>
-<b>LONGITUD:</b> -74.8244554<br>
-<b>ICONO:</b> small_green
-</div>",309,9046,11.003588699999998,-74.8244554,small_green
-289,POINT (-74.8222026 11.0080018),CALLE 90 CON CARRERA 51B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 310<br>
-<b>CODIGO:</b> 1225<br>
-<b>LOCALIZACION:</b> CALLE 90 CON CARRERA 51B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0080018<br>
-<b>LONGITUD:</b> -74.8222026<br>
-<b>ICONO:</b> small_green
-</div>",310,1225,11.0080018,-74.8222026,small_green
-290,POINT (-74.8199757 11.0110048),CALLE 90 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 311<br>
-<b>CODIGO:</b> 1224<br>
-<b>LOCALIZACION:</b> CALLE 90 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0110048<br>
-<b>LONGITUD:</b> -74.8199757<br>
-<b>ICONO:</b> small_green
-</div>",311,1224,11.0110048,-74.8199757,small_green
-291,POINT (-74.8280803 11.0017702),CALLE 93 CON CARRERA 43 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 312<br>
-<b>CODIGO:</b> 9343<br>
-<b>LOCALIZACION:</b> CALLE 93 CON CARRERA 43 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0017702<br>
-<b>LONGITUD:</b> -74.8280803<br>
-<b>ICONO:</b> small_green
-</div>",312,9343,11.0017702,-74.8280803,small_green
-292,POINT (-74.827226 11.0038108),CALLE 93 CON CARRERA 45B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 313<br>
-<b>CODIGO:</b> 1343<br>
-<b>LOCALIZACION:</b> CALLE 93 CON CARRERA 45B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0038108<br>
-<b>LONGITUD:</b> -74.827226<br>
-<b>ICONO:</b> small_green
-</div>",313,1343,11.0038108,-74.827226,small_green
-293,POINT (-74.8269129 11.0047043),CALLE 93 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 314<br>
-<b>CODIGO:</b> 1343<br>
-<b>LOCALIZACION:</b> CALLE 93 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0047043<br>
-<b>LONGITUD:</b> -74.8269129<br>
-<b>ICONO:</b> small_green
-</div>",314,1343,11.0047043,-74.82691290000001,small_green
-294,POINT (-74.8250597 11.0094407),CALLE 93 CON CARRERA 51B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 315<br>
-<b>CODIGO:</b> 1220<br>
-<b>LOCALIZACION:</b> CALLE 93 CON CARRERA 51B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0094407<br>
-<b>LONGITUD:</b> -74.8250597<br>
-<b>ICONO:</b> small_green
-</div>",315,1220,11.009440699999999,-74.82505970000001,small_green
-295,POINT (-74.8246308 11.0106147),CALLE 94 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 316<br>
-<b>CODIGO:</b> 9452<br>
-<b>LOCALIZACION:</b> CALLE 94 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0106147<br>
-<b>LONGITUD:</b> -74.8246308<br>
-<b>ICONO:</b> small_green
-</div>",316,9452,11.0106147,-74.8246308,small_green
-296,POINT (-74.8233265 11.0126678),CALLE 94 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 317<br>
-<b>CODIGO:</b> 1210<br>
-<b>LOCALIZACION:</b> CALLE 94 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0126678<br>
-<b>LONGITUD:</b> -74.8233265<br>
-<b>ICONO:</b> small_green
-</div>",317,1210,11.012667800000001,-74.82332650000001,small_green
-297,POINT (-74.8293086 11.005801),CALLE 96 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 318<br>
-<b>CODIGO:</b> 1339<br>
-<b>LOCALIZACION:</b> CALLE 96 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.005801<br>
-<b>LONGITUD:</b> -74.8293086<br>
-<b>ICONO:</b> small_green
-</div>",318,1339,11.005801,-74.82930859999999,small_green
-298,POINT (-74.8286042 11.0109886),CALLE 98 CON CARRERA 51B BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 319<br>
-<b>CODIGO:</b> 1214<br>
-<b>LOCALIZACION:</b> CALLE 98 CON CARRERA 51B BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0109886<br>
-<b>LONGITUD:</b> -74.8286042<br>
-<b>ICONO:</b> small_green
-</div>",319,1214,11.0109886,-74.8286042,small_green
-299,POINT (-74.8278199 11.0120999),CALLE 98 CON CARRERA 52 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 320<br>
-<b>CODIGO:</b> 9852<br>
-<b>LOCALIZACION:</b> CALLE 98 CON CARRERA 52 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0120999<br>
-<b>LONGITUD:</b> -74.8278199<br>
-<b>ICONO:</b> small_green
-</div>",320,9852,11.0120999,-74.82781990000001,small_green
-300,POINT (-74.8263404 11.0138164),CALLE 98 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 321<br>
-<b>CODIGO:</b> 1206<br>
-<b>LOCALIZACION:</b> CALLE 98 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0138164<br>
-<b>LONGITUD:</b> -74.8263404<br>
-<b>ICONO:</b> small_green
-</div>",321,1206,11.0138164,-74.8263404,small_green
-301,POINT (-74.8273638 11.01447),CALLE 99 CON CARRERA 53 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 322<br>
-<b>CODIGO:</b> 9953<br>
-<b>LOCALIZACION:</b> CALLE 99 CON CARRERA 53 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.01447<br>
-<b>LONGITUD:</b> -74.8273638<br>
-<b>ICONO:</b> small_green
-</div>",322,9953,11.01447,-74.82736379999999,small_green
-302,POINT (-74.8262897 11.0160656),CALLE 99 CON CARRERA 56 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 323<br>
-<b>CODIGO:</b> 9956<br>
-<b>LOCALIZACION:</b> CALLE 99 CON CARRERA 56 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0160656<br>
-<b>LONGITUD:</b> -74.8262897<br>
-<b>ICONO:</b> small_green
-</div>",323,9956,11.016065600000001,-74.8262897,small_green
-303,POINT (-74.8338823 11.0080352),CALLE 100 CON CARRERA 46 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 1<br>
-<b>CODIGO:</b> 10046<br>
-<b>LOCALIZACION:</b> CALLE 100 CON CARRERA 46 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.0080352<br>
-<b>LONGITUD:</b> -74.8338823<br>
-<b>ICONO:</b> small_green
-</div>",1,10046,11.0080352,-74.8338823,small_green
-304,POINT (-74.801889 10.996044),CALLE 70 CON CARRERA 50,"<div class=""googft-info-window"">
-<b>No.:</b> 324<br>
-<b>CODIGO:</b> 7050<br>
-<b>LOCALIZACION:</b> CALLE 70 CON CARRERA 50<br>
-<b>LATITUD:</b> 10.996044 <br>
-<b>LONGITUD:</b> -74.801889<br>
-<b>ICONO:</b> small_green
-</div>",324,7050,10.996044,-74.801889,small_green
-305,POINT (-74.798119 10.992422),CALLE 64 CON CARRERA 47,"<div class=""googft-info-window"">
-<b>No.:</b> 325<br>
-<b>CODIGO:</b> 6447<br>
-<b>LOCALIZACION:</b> CALLE 64 CON CARRERA 47<br>
-<b>LATITUD:</b> 10.992422 <br>
-<b>LONGITUD:</b> -74.798119<br>
-<b>ICONO:</b> small_green
-</div>",325,6447,10.992422,-74.798119,small_green
-306,POINT (-74.821192 11.01501),CALLE 94 CON CARRERA 57 BARRANQUILLA,"<div class=""googft-info-window"">
-<b>No.:</b> 221<br>
-<b>CODIGO:</b> 9457<br>
-<b>LOCALIZACION:</b> CALLE 94 CON CARRERA 57 BARRANQUILLA<br>
-<b>LATITUD:</b> 11.015010<br>
-<b>LONGITUD:</b> -74.821192<br>
-<b>ICONO:</b> small_green
-</div>",221,9457,11.01501,-74.82119200000001,small_green
-307,POINT (-74.805036 10.998793),CALLE 74 CON CARRERA 50,"<div class=""googft-info-window"">
-<b>No.:</b> 222<br>
-<b>CODIGO:</b> 7450<br>
-<b>LOCALIZACION:</b> CALLE 74 CON CARRERA 50<br>
-<b>LATITUD:</b> 10.998793	
-<br>
-<b>LONGITUD:</b> -74.805036	<br>
-<b>ICONO:</b> small_green
-</div>",222,7450,10.998793,-74.805036,small_green
+,name,LATITUD,LONGITUD
+0,CALLE 106 CON CARRERA 53 BARRANQUILLA,11.0175066,-74.8346608
+1,CALLE 17 CON CARRERA 15 BARRANQUILLA,10.9539613,-74.7739496
+2,CALLE 17 CON CARRERA 30 BARRANQUILLA,10.9674284,-74.77488029999998
+3,CALLE 17 CON CARRERA 38 BARRANQUILLA,10.9754118,-74.7753842
+4,CALLE 19 CON CARRERA 1E BARRANQUILLA,10.936612,-74.780262
+5,CALLE 19 CON CARRERA 5B BARRANQUILLA,10.9437723,-74.7768943
+6,CALLE 19 CON CARRERA 7 BARRANQUILLA,10.94681,-74.77590479999998
+7,CALLE 26 CON CARRERA 15 BARRANQUILLA,10.9526771,-74.78021890000002
+8,CALLE 30 CON CARRERA 14 BARRANQUILLA,10.9524282,-74.78634509999998
+9,CALLE 30 CON CARRERA 15 BARRANQUILLA,10.9515936,-74.78608890000002
+10,CALLE 30 CON CARRERA 20 BARRANQUILLA,10.9567872,-74.78603199999998
+11,CALLE 30 CON CARRERA 21 BARRANQUILLA,10.9592699,-74.7851271
+12,CALLE 30 CON CARRERA 21B BARRANQUILLA,10.9609495,-74.7843952
+13,CALLE 30 CON CARRERA 23 BARRANQUILLA,10.9622783,-74.78398979999999
+14,CALLE 30 CON CARRERA 24 BARRANQUILLA,10.963379,-74.783424
+15,CALLE 30 CON CARRERA 25 BARRANQUILLA,10.9643142,-74.7831608
+16,CALLE 30 CON CARRERA 28 BARRANQUILLA,10.9666814,-74.78214809999999
+17,CALLE 30 CON CARRERA 30 BARRANQUILLA,10.9691942,-74.7808624
+18,CALLE 30 CON CARRERA 38 BARRANQUILLA,10.9762252,-74.7773309
+19,CALLE 30 CON CARRERA 4 BARRANQUILLA,10.9397426,-74.78263570000001
+20,CALLE 30 CON CARRERA 40 BARRANQUILLA,10.9776657,-74.77650200000002
+21,CALLE 30 CON CARRERA 43 BARRANQUILLA,10.9811718,-74.7753824
+22,CALLE 30 CON CARRERA 44 BARRANQUILLA,10.9825115,-74.77556
+23,CALLE 30 CON CARRERA 46 BARRANQUILLA,10.9857315,-74.7769683
+24,CALLE 30 CON CARRERA 8 BARRANQUILLA,10.9469744,-74.7847508
+25,CALLE 30 ENTRE CARRERAS 1 Y 2 BARRANQUILLA,10.93674,-74.78174399999997
+26,CALLE 34 CON CARRERA 38 BARRANQUILLA,10.9771,-74.7794114
+27,CALLE 34 CON CARRERA 40 BARRANQUILLA,10.9790133,-74.77873149999998
+28,CALLE 34 CON CARRERA 41 BARRANQUILLA,10.9800066,-74.7784432
+29,CALLE 34 CON CARRERA 43 BARRANQUILLA,10.9812295,-74.77822540000003
+30,CALLE 34 CON CARRERA 44 BARRANQUILLA,10.982892800000002,-74.7778786
+31,CALLE 34 CON CARRERA 45 BARRANQUILLA,10.9838136,-74.777582
+32,CALLE 34 CON CARRERA 46 BARRANQUILLA *norte,10.985733,-74.776969
+33,CALLE 34 CON CARRERA 46 BARRANQUILLA *sur,10.985721,-74.776957
+34,CALLE 36B CON CARRERA 8 BARRANQUILLA,10.946079,-74.7921527
+35,CALLE 37 CON CARRERA 44 BARRANQUILLA,10.9833457,-74.77993690000002
+36,CALLE 37 CON CARRERA 46 BARRANQUILLA,10.9860925,-74.7793988
+37,CALLE 38 CON CARRERA 30 BARRANQUILLA,10.9703976,-74.78441219999998
+38,CALLE 38 CON CARRERA 33 BARRANQUILLA,10.973159,-74.7833655
+39,CALLE 38 CON CARRERA 38 BARRANQUILLA,10.9780656,-74.781797
+40,CALLE 38 CON CARRERA 40 BARRANQUILLA,10.9799677,-74.7812785
+41,CALLE 38 CON CARRERA 44 BARRANQUILLA,10.9834463,-74.780499
+42,CALLE 38 CON CARRERA 45 BARRANQUILLA,10.9848984,-74.78017249999998
+43,CALLE 38 CON CARRERA43 BARRANQUILLA,10.9817507,-74.78082619999998
+44,CALLE 39 CON CARRERA 30 BARRANQUILLA,10.9703325,-74.78504029999998
+45,CALLE 40 CON CARRERA 46 BARRANQUILLA,10.9863515,-74.7810334
+46,CALLE 40 CON CARRERA 38 BARRANQUILLA,10.978483099999998,-74.7828894
+47,CALLE 40 CON CARRERA 40 BARRANQUILLA,10.9802963,-74.78239609999999
+48,CALLE 40 CON CARRERA 44 BARRANQUILLA,10.9837043,-74.7815697
+49,CALLE 40 CON CARRERA 50 BARRANQUILLA,10.9887281,-74.7805062
+50,CALLE 42 CON CARRERA 24 BARRANQUILLA,10.9659884,-74.7898688
+51,CALLE 42 CON CARRERA 25 BARRANQUILLA,10.9667616,-74.7890203
+52,CALLE 42 CON CARRERA 46 BARRANQUILLA,10.986711,-74.78247979999998
+53,CALLE 42 CON CARRERA 50 BARRANQUILLA,10.989123800000002,-74.7820207
+54,CALLE 43 CON CARRERA 46 BARRANQUILLA,10.9868798,-74.7831735
+55,CALLE 44 CON CARRERA 38 BARRANQUILLA,10.9795369,-74.78613299999998
+56,CALLE 45 CON AV VÍA 40 BARRANQUILLA,10.9961074,-74.7825027
+57,CALLE 45 CON CARRERA 1 BARRANQUILLA,10.930138,-74.79912009999998
+58,CALLE 45 CON CARRERA 17 BARRANQUILLA,10.9556793,-74.7961987
+59,CALLE 45 CON CARRERA 19 BARRANQUILLA,10.9584588,-74.7948608
+60,CALLE 45 CON CARRERA 20B BARRANQUILLA,10.9599332,-74.7941408
+61,CALLE 45 CON CARRERA 21 BARRANQUILLA,10.9618252,-74.79327909999998
+62,CALLE 45 CON CARRERA 24 BARRANQUILLA,10.9665101,-74.7911115
+63,CALLE 45 CON CARRERA 26 BARRANQUILLA,10.9680692,-74.79063790000002
+64,CALLE 45 CON CARRERA 27 BARRANQUILLA,10.9696249,-74.79013459999999
+65,CALLE 45 CON CARRERA 2A BARRANQUILLA,10.9337912,-74.7993457
+66,CALLE 45 CON CARRERA 30 BARRANQUILLA,10.9720192,-74.7894355
+67,CALLE 45 CON CARRERA 33 BARRANQUILLA,10.9751144,-74.78848409999998
+68,CALLE 45 CON CARRERA 34 BARRANQUILLA,10.9838136,-74.777582
+69,CALLE 45 CON CARRERA 36 BARRANQUILLA,10.978146,-74.78748409999999
+70,CALLE 45 CON CARRERA 38 BARRANQUILLA,10.9798372,-74.78712829999998
+71,CALLE 45 CON CARRERA 4 BARRANQUILLA,10.9383337,-74.7993309
+72,CALLE 45 CON CARRERA 41 BARRANQUILLA,10.981457,-74.7867596
+73,CALLE 45 CON CARRERA 43 BARRANQUILLA,10.983006800000002,-74.78633909999998
+74,CALLE 45 CON CARRERA 44 BARRANQUILLA,10.9845719,-74.78575570000002
+75,CALLE 45 CON CARRERA 45 BARRANQUILLA,10.9864681,-74.7852241
+76,CALLE 45 CON CARRERA 46 BARRANQUILLA,10.9873617,-74.78493890000001
+77,CALLE 45 CON CARRERA 50 BARRANQUILLA,10.989661300000002,-74.7840489
+78,CALLE 45 CON CARRERA 7 BARRANQUILLA,10.9413601,-74.7993874
+79,CALLE 45 CON CARRERA 7C BARRANQUILLA,10.9428048,-74.7994937
+80,CALLE 45 CON CARRERA 8 BARRANQUILLA,10.946181800000002,-74.7996238
+81,CALLE 45 CON CARRERA 8C BARRANQUILLA,10.947809800000002,-74.7996782
+82,CALLE 45 CON CARRERAS 14 BARRANQUILLA,10.9543704,-74.7968304
+83,CALLE 45 CON CARRERAS 1E BARRANQUILLA,10.9317964,-74.79932020000003
+84,CALLE 45 CON CARRERAS 20 BARRANQUILLA,10.9599332,-74.7941408
+85,CALLE 47 CON CARRERA 14 BARRANQUILLA,10.9587401,-74.8032998
+86,CALLE 47 CON CARRERA 16 BARRANQUILLA,10.9598037,-74.8016144
+87,CALLE 47 CON CARRERA 18 BARRANQUILLA,10.9607035,-74.7997901
+88,CALLE 47 CON CARRERA 21 BARRANQUILLA,10.96297,-74.7950824
+89,CALLE 47 CON CARRERA 22 BARRANQUILLA,10.980213699999998,-74.78815490000002
+90,CALLE 47 CON CARRERA 33 BARRANQUILLA,10.975435699999998,-74.7894946
+91,CALLE 50 CON CARRERA 24 BARRANQUILLA,10.9684734,-74.79520140000002
+92,CALLE 50 CON CARRERA 27 BARRANQUILLA,10.9712039,-74.79399520000003
+93,CALLE 50 CON CARRERA 33 BARRANQUILLA,10.976169,-74.791678
+94,CALLE 50 CON CARRERA 38 BARRANQUILLA,10.98066,-74.7903074
+95,CALLE 50 CON CARRERA 41 BARRANQUILLA,10.9820734,-74.78990970000002
+96,CALLE 50 CON CARRERA 43 BARRANQUILLA,10.983771,-74.78938409999998
+97,CALLE 50 CON CARRERA 44 BARRANQUILLA,10.985343,-74.78880179999999
+98,CALLE 50 CON CARRERA 45 BARRANQUILLA,10.9873053,-74.7882298
+99,CALLE 50 CON CARRERA 46 BARRANQUILLA,10.988127699999998,-74.7879786
+100,CALLE 51 CON CARRERA 38 BARRANQUILLA,10.9808792,-74.7912623
+101,CALLE 53 CON CARRERA 45 BARRANQUILLA,10.987717,-74.7897734
+102,CALLE 53 CON CARRERA 46 BARRANQUILLA,10.9885764,-74.7895198
+103,CALLE 53 CON CARRERA 50 BARRANQUILLA,10.9907409,-74.789138
+104,CALLE 53 CON CARRERA 54 BARRANQUILLA,10.9927375,-74.7892454
+105,CALLE 53D CON CARRERA 21B BARRANQUILLA,10.9682144,-74.8002887
+106,CALLE 53D CON CARRERA 24 BARRANQUILLA,10.970826,-74.798462
+107,CALLE 53D CON CARRERA 25 BARRANQUILLA,10.972475,-74.797588
+108,CALLE 53D CON CARRERA 31 BARRANQUILLA,10.97656,-74.7973705
+109,CALLE 54 CON CARRERA 33 BARRANQUILLA,10.9781534,-74.7967611
+110,CALLE 54 CON CARRERA 38 BARRANQUILLA,10.9816451,-74.79441059999998
+111,CALLE 54 CON CARRERA 41 BARRANQUILLA,10.9828188,-74.793685
+112,CALLE 54 CON CARRERA 43 BARRANQUILLA,10.9846061,-74.7925588
+113,CALLE 54 CON CARRERA 44 BARRANQUILLA,10.9861841,-74.79196280000002
+114,CALLE 54 CON CARRERA 45 BARRANQUILLA,10.9881505,-74.7913516
+115,CALLE 54 CON CARRERA 46 BARRANQUILLA,10.9890391,-74.7910884
+116,CALLE 54 CON CARRERA 50 BARRANQUILLA,10.9907684,-74.790591
+117,CALLE 54 CON CARRERA 53 BARRANQUILLA,10.9917181,-74.79031440000001
+118,CALLE 55 CON CARRERA 46 BARRANQUILLA,10.989339,-74.7917523
+119,CALLE 55 CON CARRERA 47 y 50 BARRANQUILLA,10.990703,-74.791388
+120,CALLE 55 CON CARRERA 54 BARRANQUILLA,10.992770599999998,-74.7912042
+121,CALLE 56 CON CARRERA 9D BARRANQUILLA,10.953588900000002,-74.8087009
+122,CALLE 57 CON CARRERA 24 BARRANQUILLA,10.9713274,-74.8012771
+123,CALLE 58 CON CARRERA 54 BARRANQUILLA,10.9928996,-74.79147629999999
+124,CALLE 59 CON CARRERA 45 BARRANQUILLA,10.989212599999998,-74.79522
+125,CALLE 59 CON CARRERA 46 BARRANQUILLA,10.9902237,-74.79493120000002
+126,CALLE 59 CON CARRERA 50 BARRANQUILLA,10.9919534,-74.7940735
+127,CALLE 59 CON CARRERA 53 BARRANQUILLA,10.9929475,-74.793324
+128,CALLE 59 CON CARRERA 54 BARRANQUILLA,10.9939843,-74.7926627
+129,CALLE 6 CON CARRERA 30 BARRANQUILLA,10.9852619,-74.7760198
+130,CALLE 60 CON CARRERA 14 BARRANQUILLA,10.9603468,-74.80675129999999
+131,CALLE 60 CON CARRERA 46 BARRANQUILLA,10.9904172,-74.7956265
+132,CALLE 61 CON CARRERA 24 BARRANQUILLA,10.9714016,-74.8035041
+133,CALLE 61 CON CARRERA 27 BARRANQUILLA,10.9755198,-74.8032603
+134,CALLE 61 CON CARRERA 38 BARRANQUILLA,10.9836332,-74.798959
+135,CALLE 61 CON CARRERA 41 BARRANQUILLA,10.9848317,-74.79800429999997
+136,CALLE 61 CON CARRERA 43 BARRANQUILLA,10.986423,-74.7975661
+137,CALLE 61 CON CARRERA 44 BARRANQUILLA,10.9878254,-74.79714820000002
+138,CALLE 62 CON CARRERA 46 BARRANQUILLA,10.9908089,-74.7970541
+139,CALLE 64 CON CARRERA 24 BARRANQUILLA,10.9715268,-74.8057368
+140,CALLE 64 CON CARRERA 27 BARRANQUILLA,10.9759955,-74.8054204
+141,CALLE 64 CON CARRERA 44 BARRANQUILLA,10.988912,-74.79912
+142,CALLE 64 CON CARRERA 46 BARRANQUILLA,10.9911749,-74.7984688
+143,CALLE 64 CON CARRERA 53 BARRANQUILLA,10.9952341,-74.7958224
+144,CALLE 64 CON CARRERA 54 BARRANQUILLA,10.9958015,-74.79489179999999
+145,CALLE 64 CON CARRERA 58 BARRANQUILLA,10.9959516,-74.7946546
+146,CALLE 68 CON CARRERA 21B BARRANQUILLA,10.968804,-74.80971770000002
+147,CALLE 68 CON CARRERA 27 BARRANQUILLA,10.9765186,-74.8068543
+148,CALLE 68 CON CARRERA 32 BARRANQUILLA,10.9807784,-74.80453220000003
+149,CALLE 68 CON CARRERA 38 BARRANQUILLA,10.9833319,-74.8034468
+150,CALLE 68 CON CARRERA 43 BARRANQUILLA,10.9889008,-74.8021738
+151,CALLE 68 CON CARRERA 44 BARRANQUILLA,10.9897171,-74.8019449
+152,CALLE 68 CON CARRERA 45 BARRANQUILLA,10.990999,-74.8015695
+153,CALLE 68 CON CARRERA 46 BARRANQUILLA,10.991962,-74.8012952
+154,CALLE 68 CON CARRERA 47 BARRANQUILLA,10.9931928,-74.8009609
+155,CALLE 68 CON CARRERA 50 BARRANQUILLA,10.9951325,-74.7997616
+156,CALLE 68 CON CARRERA 53 BARRANQUILLA,10.9962025,-74.7980303
+157,CALLE 68 CON CARRERA 54 BARRANQUILLA,10.9971989,-74.7975694
+158,CALLE 69 CON CARRERA 41 BARRANQUILLA,10.9868738,-74.8038667
+159,CALLE 69 CON CARRERA 43 BARRANQUILLA,10.9893604,-74.8030104
+160,CALLE 69 CON CARRERA 44 BARRANQUILLA,10.9901915,-74.80270300000002
+161,CALLE 69 CON CARRERA 46 BARRANQUILLA,10.9923736,-74.8019949
+162,CALLE 70 CON CARRERA 48 BARRANQUILLA,10.9946462,-74.8026325
+163,CALLE 70 CON CARRERA 38 BARRANQUILLA,10.9844714,-74.8081656
+164,CALLE 70 CON CARRERA 41 BARRANQUILLA,10.9881052,-74.8061665
+165,CALLE 70 CON CARRERA 43 BARRANQUILLA,10.9903972,-74.80489820000003
+166,CALLE 70 CON CARRERA 44 BARRANQUILLA,10.9913249,-74.804406
+167,CALLE 70 CON CARRERA 45 BARRANQUILLA,10.9922433,-74.8039222
+168,CALLE 70 CON CARRERA 46 BARRANQUILLA,10.9931709,-74.803414
+169,CALLE 70 CON CARRERA 47 BARRANQUILLA,10.9938933,-74.80303149999997
+170,CALLE 70 CON CARRERA 52 BARRANQUILLA,10.9964707,-74.8014623
+171,CALLE 70 CON CARRERA 53 BARRANQUILLA,10.9972485,-74.8007063
+172,CALLE 70 CON CARRERA 54 BARRANQUILLA,10.9981308,-74.79985699999997
+173,CALLE 70 CON CARRERA 58 BARRANQUILLA,11.0000715,-74.7975243
+174,CALLE 70B CON CARRERA 34 BARRANQUILLA,10.983130699999998,-74.8094388
+175,CALLE 70C CON CARRERA 27 BARRANQUILLA,10.9768643,-74.8097256
+176,CALLE 71 CON CARRERA 27 BARRANQUILLA,10.9769174,-74.81013670000002
+177,CALLE 71 CON CARRERA 34 BARRANQUILLA,10.9824468,-74.8108464
+178,CALLE 72 CON CARRERA 38 BARRANQUILLA,10.9853111,-74.8111269
+179,CALLE 72 CON CARRERA 41 BARRANQUILLA,10.9892049,-74.8085664
+180,CALLE 72 CON CARRERA 43 BARRANQUILLA,10.991598,-74.80714559999998
+181,CALLE 72 CON CARRERA 44 BARRANQUILLA,10.9925193,-74.806522
+182,CALLE 72 CON CARRERA 46 BARRANQUILLA,10.9943913,-74.8055641
+183,CALLE 72 CON CARRERA 47 BARRANQUILLA,10.9950587,-74.8051319
+184,CALLE 72 CON CARRERA 49 BARRANQUILLA,10.9965549,-74.80425509999998
+185,CALLE 72 CON CARRERA 50 BARRANQUILLA,10.9973183,-74.8037816
+186,CALLE 72 CON CARRERA 52 BARRANQUILLA,10.997767800000002,-74.8032762
+187,CALLE 72 CON CARRERA 53 BARRANQUILLA,10.9983184,-74.80248509999998
+188,CALLE 72 CON CARRERA 54 BARRANQUILLA,10.9989782,-74.801579
+189,CALLE 72 CON CARRERA 57 BARRANQUILLA,11.0006366,-74.7992663
+190,CALLE 72 CON CARRERA 58 BARRANQUILLA,11.0012906,-74.7984009
+191,CALLE 72 CON CARRERA 59 BARRANQUILLA,11.0018507,-74.7976397
+192,CALLE 72 CON CARRERAS 48 BARRANQUILLA,10.9957798,-74.8046761
+193,CALLE 72 CON VIA 40 BARRANQUILLA,11.007878,-74.7903859
+194,CALLE 74 CON CARRERA 39 BARRANQUILLA,10.9887214,-74.8118419
+195,CALLE 74 CON CARRERA 42F BARRANQUILLA,10.992595199999998,-74.8095309
+196,CALLE 74 CON CARRERA 43 BARRANQUILLA,10.9929092,-74.80935179999999
+197,CALLE 74 CON CARRERA 44 BARRANQUILLA,10.9938169,-74.8087984
+198,CALLE 74 CON CARRERA 46 BARRANQUILLA,10.9955138,-74.8077912
+199,CALLE 74 CON CARRERA 47 BARRANQUILLA,10.9963343,-74.8070974
+200,CALLE 74 CON CARRERA 48 BARRANQUILLA,10.9969606,-74.8065511
+201,CALLE 74 CON CARRERA 52 BARRANQUILLA,10.9992924,-74.8043755
+202,CALLE 74 CON CARRERA 53 BARRANQUILLA,10.9998159,-74.8035836
+203,CALLE 74 CON CARRERA 54 BARRANQUILLA,11.0004595,-74.80274440000002
+204,CALLE 74 CON CARRERA 58 BARRANQUILLA,11.0027688,-74.79951659999998
+205,CALLE 75 CON CARRERA 26C7 BARRANQUILLA,10.9793537,-74.81597359999998
+206,CALLE 75 CON CARRERA 50 BARRANQUILLA,11.000179,-74.806188
+207,CALLE 75 CON CARRERA 52 BARRANQUILLA,11.0007269,-74.8054417
+208,CALLE 75 CON CARRERA 53 BARRANQUILLA,11.0012798,-74.8046848
+209,CALLE 75 CON CARRERA 54 BARRANQUILLA,11.0018994,-74.80382209999998
+210,CALLE 75 CON CARRERA 58 BARRANQUILLA,11.0042019,-74.80059229999998
+211,CALLE 76 CON CARRERA 42 BARRANQUILLA,10.9923109,-74.8136587
+212,CALLE 76 CON CARRERA 38 BARRANQUILLA,10.9866404,-74.81623559999998
+213,CALLE 76 CON CARRERA 42F BARRANQUILLA,10.9936627,-74.8135302
+214,CALLE 76 CON CARRERA 43 BARRANQUILLA,10.9942397,-74.81159699999998
+215,CALLE 76 CON CARRERA 44 BARRANQUILLA,10.9953433,-74.8109259
+216,CALLE 76 CON CARRERA 46 BARRANQUILLA,10.9968087,-74.8100681
+217,CALLE 76 CON CARRERA 47 BARRANQUILLA,10.9974724,-74.8096969
+218,CALLE 76 CON CARRERA 48 BARRANQUILLA,10.9982136,-74.809253
+219,CALLE 76 CON CARRERA 49C BARRANQUILLA,10.9998393,-74.8085037
+220,CALLE 76 CON CARRERA 51B BARRANQUILLA,11.0017048,-74.80721159999997
+221,CALLE 76 CON CARRERA 52 BARRANQUILLA,11.002180699999998,-74.8065252
+222,CALLE 76 CON CARRERA 53 BARRANQUILLA,11.0027291,-74.80577070000002
+223,CALLE 76 CON CARRERA 54 BARRANQUILLA,11.0032494,-74.8050667
+224,CALLE 76 CON CARRERA 56 BARRANQUILLA,11.0045029,-74.80330790000002
+225,CALLE 76 CON CARRERA 57 BARRANQUILLA,11.005061,-74.802571
+226,CALLE 76 CON CARRERA 58 BARRANQUILLA,11.0057036,-74.80170600000002
+227,CALLE 76 CON CARRERA 59 BARRANQUILLA,11.0062431,-74.80090109999998
+228,CALLE 76 CON CARRERA 6 BARRANQUILLA,10.9456934,-74.82168270000003
+229,CALLE 76 CON CARRERA 60 BARRANQUILLA,11.0067707,-74.8001673
+230,CALLE 76B CON CARRERA 42F BARRANQUILLA,10.9937509,-74.8137955
+231,CALLE 77 CON CARRERA 59 BARRANQUILLA,11.0068867,-74.80164040000003
+232,CALLE 77 CON CARRERA 60 BARRANQUILLA,11.0081521,-74.8011879
+233,CALLE 79 CON CARRERA 43 BARRANQUILLA,10.995324900000002,-74.8136578
+234,CALLE 79 CON CARRERA 44 BARRANQUILLA,10.9964759,-74.8129678
+235,CALLE 79 CON CARRERA 46 BARRANQUILLA,10.997987,-74.8120945
+236,CALLE 79 CON CARRERA 47 BARRANQUILLA,10.998645300000002,-74.8117193
+237,CALLE 79 CON CARRERA 49C BARRANQUILLA,11.0000584,-74.8110692
+238,CALLE 79 CON CARRERA 50 BARRANQUILLA,11.0009055,-74.8104505
+239,CALLE 79 CON CARRERA 51 BARRANQUILLA,11.0018231,-74.8097543
+240,CALLE 79 CON CARRERA 51B BARRANQUILLA,11.0026222,-74.80914709999998
+241,CALLE 79 CON CARRERA 52 BARRANQUILLA,11.003424,-74.8085522
+242,CALLE 79 CON CARRERA 53 BARRANQUILLA,11.004304,-74.8081282
+243,CALLE 79 CON CARRERA 59B BARRANQUILLA,11.008813,-74.8050155
+244,CALLE 79 CON CARRERA 60 BARRANQUILLA,11.0092328,-74.8046574
+245,CALLE 79A CON CARRERA 38 BARRANQUILLA,10.9871381,-74.81818299999998
+246,CALLE 80 CON CARRERA 42F BARRANQUILLA,10.9943343,-74.8168731
+247,CALLE 80 CON CARRERA 43 BARRANQUILLA,10.9964867,-74.8158477
+248,CALLE 80 CON CARRERA 46 BARRANQUILLA,10.9992163,-74.8142506
+249,CALLE 80 CON CARRERA 49C BARRANQUILLA,11.0010288,-74.81338170000002
+250,CALLE 80 CON CARRERA 50 BARRANQUILLA,11.0017022,-74.81262459999998
+251,CALLE 80B CON CARRERA 42 BARRANQUILLA,10.989036,-74.8225333
+252,CALLE 82 CON CARRERA 42H BARRANQUILLA,10.996878,-74.8183497
+253,CALLE 82 CON CARRERA 43 BARRANQUILLA,10.9976459,-74.817993
+254,CALLE 82 CON CARRERA 44 BARRANQUILLA,10.999071699999998,-74.81742
+255,CALLE 82 CON CARRERA 46 BARRANQUILLA,11.0006369,-74.8167568
+256,CALLE 82 CON CARRERA 47 BARRANQUILLA,11.0013593,-74.8164114
+257,CALLE 82 CON CARRERA 49C BARRANQUILLA,11.0020827,-74.81593690000003
+258,CALLE 82 CON CARRERA 50 BARRANQUILLA,11.0029034,-74.81544090000001
+259,CALLE 82 CON CARRERA 51 BARRANQUILLA,11.0037485,-74.81486600000002
+260,CALLE 82 CON CARRERA 51B BARRANQUILLA,11.0044963,-74.8143788
+261,CALLE 82 CON CARRERA 52 BARRANQUILLA,11.005283,-74.813897
+262,CALLE 82 CON CARRERA 53 BARRANQUILLA,11.0061612,-74.8133269
+263,CALLE 82 CON CARRERA 55 BARRANQUILLA,11.0070276,-74.8127537
+264,CALLE 82 CON CARRERA 57 BARRANQUILLA,11.0086374,-74.8117652
+265,CALLE 82 CON CARRERA 58 BARRANQUILLA,11.0094152,-74.8114825
+266,CALLE 84 CON CARRERA 43 BARRANQUILLA,10.9984431,-74.820031
+267,CALLE 84 CON CARRERA 44 BARRANQUILLA,11.0000323,-74.81953
+268,CALLE 84 CON CARRERA 46 BARRANQUILLA,11.0016435,-74.81900209999998
+269,CALLE 84 CON CARRERA 47 BARRANQUILLA,11.0023999,-74.8187255
+270,CALLE 84 CON CARRERA 49C BARRANQUILLA,11.0031341,-74.8183944
+271,CALLE 84 CON CARRERA 50 BARRANQUILLA,11.0040404,-74.8179766
+272,CALLE 84 CON CARRERA 51 BARRANQUILLA,11.0049463,-74.8175542
+273,CALLE 84 CON CARRERA 57 BARRANQUILLA,11.0093433,-74.8132658
+274,CALLE 84 CON CARRERA 58 BARRANQUILLA,11.0099045,-74.81253199999998
+275,CALLE 85 CON CARRERA 43 BARRANQUILLA,10.9991116,-74.82228570000002
+276,CALLE 85 CON CARRERA 46 BARRANQUILLA,11.0023332,-74.82104620000001
+277,CALLE 85 CON CARRERA 49C BARRANQUILLA,11.004017,-74.8203225
+278,CALLE 85 CON CARRERA 50 BARRANQUILLA,11.0049151,-74.81988620000001
+279,CALLE 85 CON CARRERA 51B BARRANQUILLA,11.0066005,-74.8190697
+280,CALLE 85 CON CARRERA 52 BARRANQUILLA,11.0072921,-74.8182891
+281,CALLE 85 CON CARRERA 53 BARRANQUILLA,11.0078847,-74.8171564
+282,CALLE 85 CON CARRERA 58 BARRANQUILLA,11.0108647,-74.8146798
+283,CALLE 85 CON CARRERA 59B BARRANQUILLA,11.0122192,-74.81366750000002
+284,CALLE 87 CON CARRERA 46 BARRANQUILLA,11.00287,-74.8228939
+285,CALLE 87 CON CARRERA 47 BARRANQUILLA,11.0031539,-74.82273520000003
+286,CALLE 88 CON CARRERA 46 y 47 BARRANQUILLA,11.003161,-74.82365
+287,CALLE 89 CON CARRERA 53 BARRANQUILLA,11.0106504,-74.81947590000001
+288,CALLE 90 CON CARRERA 46 BARRANQUILLA,11.003588699999998,-74.8244554
+289,CALLE 90 CON CARRERA 51B BARRANQUILLA,11.0080018,-74.8222026
+290,CALLE 90 CON CARRERA 53 BARRANQUILLA,11.0110048,-74.8199757
+291,CALLE 93 CON CARRERA 43 BARRANQUILLA,11.0017702,-74.8280803
+292,CALLE 93 CON CARRERA 45B BARRANQUILLA,11.0038108,-74.827226
+293,CALLE 93 CON CARRERA 46 BARRANQUILLA,11.0047043,-74.82691290000002
+294,CALLE 93 CON CARRERA 51B BARRANQUILLA,11.0094407,-74.82505970000003
+295,CALLE 94 CON CARRERA 52 BARRANQUILLA,11.0106147,-74.8246308
+296,CALLE 94 CON CARRERA 53 BARRANQUILLA,11.0126678,-74.82332650000002
+297,CALLE 96 CON CARRERA 46 BARRANQUILLA,11.005801,-74.82930859999998
+298,CALLE 98 CON CARRERA 51B BARRANQUILLA,11.0109886,-74.8286042
+299,CALLE 98 CON CARRERA 52 BARRANQUILLA,11.0120999,-74.82781990000002
+300,CALLE 98 CON CARRERA 53 BARRANQUILLA,11.0138164,-74.8263404
+301,CALLE 99 CON CARRERA 53 BARRANQUILLA,11.01447,-74.82736379999999
+302,CALLE 99 CON CARRERA 56 BARRANQUILLA,11.0160656,-74.8262897
+303,CALLE 100 CON CARRERA 46 BARRANQUILLA,11.0080352,-74.8338823
+304,CALLE 70 CON CARRERA 50,10.996044,-74.801889
+305,CALLE 64 CON CARRERA 47,10.992422,-74.798119
+306,CALLE 94 CON CARRERA 57 BARRANQUILLA,11.01501,-74.82119200000002
+307,CALLE 74 CON CARRERA 50,10.998793,-74.805036
