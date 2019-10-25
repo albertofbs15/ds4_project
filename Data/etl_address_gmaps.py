@@ -199,7 +199,7 @@ def get_color_bus(geox,geoy,image,t):
     if t==1:
         thresh=[0.9,0.8,0.7,0.4,0.2]
     elif t==2:
-        thresh=[0.9,0.7,0.5,0.4,0.3]
+        thresh=[0.9,0.7,0.5,0.4,0.25]
   
         
     if img>thresh[0]:
