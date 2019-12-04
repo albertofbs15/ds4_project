@@ -1,5 +1,5 @@
 import os
-import color_scale
+import utils_dash
 import data
 import dash
 import dash_core_components as dcc
@@ -20,16 +20,13 @@ server = app.server
 server.secret_key = os.environ.get('secret_key', 'secret')
 
 # Color scale for heatmap (green-to-red)
-color_scale = color_scale.GREEN_RED
+color_scale = utils_dash.GREEN_RED
 
 # Load the data
 df = data.load_data()
 
 # Get all valuable column headers
-to_skip = ['lat', 'lat-dir', 'lon', 'lon-dir', 'year', 'date']
-main_columns = [x for x in df.columns if x not in to_skip]
-
-print([{'label': str(date) for date in df['year'].unique()}])
+main_columns = [x for x in df.columns if x in utils_dash.VALID_COLUMNS]
 
 # Layout generation
 app.layout = html.Div([
@@ -314,7 +311,6 @@ app.layout = html.Div([
     )
 ]
 )
-
 ########################CALLBACKS##########################
 @app.callback(
     [
@@ -446,7 +442,6 @@ def update_heatmap(year_value,xaxis,yaxis):
                 data=data_freq_graph,  # 54b4e4
                 layout=layout_freq_graph
             )
-    
 
 @app.callback(
     Output('this-year', 'children'),
